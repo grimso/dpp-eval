@@ -1,0 +1,264 @@
+id,name,homepage_url,repo_url,category,subcategory
+arvados,Arvados,https://arvados.org/,https://github.com/arvados/arvados,"Community, Academia","genomic, biomedical"
+galaxy,Galaxy,https://galaxyproject.org/,https://github.com/galaxyproject/galaxy,"Community, Academia",bioinformatic workflow
+apacheoozie,Apache Oozie,https://oozie.apache.org/,https://github.com/apache/oozie,Non-Profit,
+wings,Wings,https://www.wings-workflows.org,https://github.com/knowledgecaptureanddiscovery/wings,Academia,science
+knime,Knime,https://www.knime.com/,https://github.com/knime/knime-core,Academia,data anaylsiis
+"make,rake,drake,ant,scons&manyothers","make, rake, drake, ant, scons & many others",,https://github.com/Factual/drake,,
+snakemake,Snakemake,https://snakemake.github.io/,https://github.com/snakemake/snakemake,"Non-Profit,Academia",data anaylsis
+bpipe,Bpipe,https://docs.bpipe.org/,https://github.com/ssadedin/bpipe/,Academia,bionfirmaticx
+cgat-ruffus,CGAT-Ruffus,https://cgat-core.readthedocs.io/en/latest/,https://github.com/cgat-developers/ruffus,Academia,bioinformaticx
+cgat-core,CGAT-Core,https://cgat-core.readthedocs.io/en/latest/,https://github.com/cgat-developers/cgat-core,Academia,data anylsis
+nextflow,Nextflow,https://nextflow.io/,https://github.com/nextflow-io/nextflow,"Academia,Funded, enterprise platform",Data-driven computational pipelines
+luigi,Luigi,https://luigi.readthedocs.io/en/stable/,https://github.com/spotify/luigi,Enterprise,data pipeline
+sciluigi,SciLuigi,https://jcheminf.biomedcentral.com/articles/10.1186/s13321-016-0179-6,https://github.com/pharmbio/sciluigi,Academia,science
+law,Law,,https://github.com/riga/law,Academia,"dada analysis, CERN"
+gatk,GATK,https://gatk.broadinstitute.org/hc/en-us,https://github.com/broadinstitute/gatk/,Academia,genomic
+yabi,YABI,https://yabi.readthedocs.io/en/latest/,https://github.com/muccg/yabi/,Academia,genomic
+seqware,Seqware,https://seqware.github.io/docs/6-pipeline/,https://github.com/SeqWare/seqware,Academia,genomic
+pegasus,Pegasus,https://pegasus.isi.edu/,https://github.com/pegasus-isi/pegasus,Academia,science
+ketrew,Ketrew,http://www.hammerlab.org/docs/ketrew/master/index.html,https://github.com/hammerlab/ketrew,Academia,
+apacheairflow,Apache Airflow,https://airflow.apache.org/,https://github.com/apache/airflow,commercial,data processing
+couler,Couler,https://couler-proj.github.io/couler/index.html,https://github.com/couler-proj/couler,open-source-project,
+cosmos,Cosmos,https://mizzou-cbmi.github.io/COSMOS2/,https://github.com/Mizzou-CBMI/COSMOS2,Academia,
+pinball,Pinball,,https://github.com/pinterest/pinball,Enterprise,
+bcbio,bcbio,bcbio-nextgen.readthedocs.io,https://github.com/bcbio/bcbio-nextgen,Academia,genomic
+chronos,chronos,,https://github.com/mesos/chronos,Enterprise,
+azkaban,azkaban,https://azkaban.github.io/,https://github.com/azkaban/azkaban,Enterprise,"ETL,hadoop"
+apachenifi,Apache nifi,https://nifi.apache.org/,https://github.com/apache/nifi,Agency,"Data pipeline, ETL"
+flowr,flowr,http://flow-r.github.io/flowr/,https://github.com/flow-r/flowr,Academia,-
+mistral,Mistral,https://docs.openstack.org/mistral/latest/user/wf_lang_v2.html,https://github.com/openstack/mistral,Foundation,workflow servce 
+nipype,Nipype,https://nipype.readthedocs.io/en/latest/,https://github.com/nipy/nipype,"Academia, Community",Neuroimaging
+endofday,EndOfDay,,https://github.com/joestubbs/endofday,Academia,
+biodsl,BioDSL,,https://github.com/maasha/BioDSL,,Bionformatik
+bigdatascript,BigDataScript,https://pcingola.github.io/bds/,https://github.com/pcingola/bds,Academia,"Scripts, Big Data"
+dagobah,Dagobah,,https://github.com/thieman/dagobah,,job schedukler
+omicspipe,Omics Pipe,https://sulab.org/tools/omics-pipe/,https://bitbucket.org/sulab/omics_pipe,,genomic
+ehive,eHive,https://ensembl-hive.readthedocs.io/en/version-2.6/,https://github.com/Ensembl/ensembl-hive,Academia,computational pipeline
+genepattern,GenePattern,https://www.genepattern.org,https://github.com/genepattern/genepattern-notebook,Academia,bioinformatics
+chipster,Chipster,https://chipster.csc.fi/,https://github.com/chipster/chipster,Academia,genomic
+thegenomemodelingsystem,The Genome Modeling System,https://github.com/genome/gms/wiki,https://github.com/genome/gms,Academia,genomic
+cuneiform,Cuneiform ,http://www.cuneiform-lang.org/,https://github.com/joergen7/cuneiform,Academia,data analysis
+apacheairavata,Apache Airavata,https://airavata.apache.org/,https://github.com/apache/airavata,Academia,"workflows, large scale"
+pyflow,PyFlow,,https://github.com/Illumina/pyflow,commercial,"workflow, task engine"
+clusterflow,Cluster Flow,http://clusterflow.io/,https://github.com/ewels/clusterflow,Academia,bionformatics
+uniprougene,Unipro Ugene,http://ugene.net/,https://github.com/ugeneunipro/ugene,"Academia, commercial support",bionformatics
+cloudslang,Cloudslang,https://www.cloudslang.io/#/,https://github.com/CloudSlang/cloud-slang,commercial,orchestration of workflows
+stacks,Stacks,http://catchenlab.life.illinois.edu/stacks/,http://catchenlab.life.illinois.edu/stacks/source/stacks-2.64.tar.gz,Academia,genomics
+yawl,YAWL,https://yawlfoundation.github.io,https://github.com/yawlfoundation/yawl,Academia,BPM
+triquetrum,Triquetrum,https://projects.eclipse.org/projects/science.triquetrum,https://github.com/eclipse-archived/triquetrum,Academia,scientific workflows
+kronos,Kronos,https://kronos.readthedocs.io/en/latest/,https://github.com/jtaghiyar/kronos,Academia,genome
+qsubsec,qsubsec,,https://github.com/alastair-droop/qsubsec,Academia,remplate preporcesser engine
+yesworkflow,YesWorkflow,,https://github.com/yesworkflow-org/yw-prototypes,Academia,scripts
+gwf,gwf,https://gwf.app/,https://github.com/gwforg/gwf,Academia,scientific workflows
+fireworks,FireWorks,https://materialsproject.github.io/fireworks/,https://github.com/materialsproject/fireworks,Academia,"workflow, high throughput"
+ngless,NGLESS,https://ngless.readthedocs.io/en/latest/,https://github.com/ngless-toolkit/ngless,Academia,genomic
+pypipegraph,pypipegraph,,https://github.com/IMTMarburg/pypipegraph,Academia,general purpose
+cromwell,Cromwell ,https://cromwell.readthedocs.io/en/stable/,https://github.com/broadinstitute/cromwell,Academia,bionformatics
+sushi,SUSHI,,https://github.com/uzh/sushi,Academia,genomic
+noodles,noodles,https://nlesc.github.io/noodles/,https://github.com/NLeSC/noodles,Non-Profit,workflow engine
+consonance,Consonance,https://github.com/Consonance/consonance,https://github.com/Consonance/consonance,Community?,cloud orchestration
+dog,Dog,,https://github.com/dogtools/dog,Hackaton,task orchestration
+produce,Produce,,https://github.com/texttheater/produce,Community?,"data processing, replicable processing"
+lonipipeline,Loni pipeline,https://pipeline.loni.usc.edu/,-,Academia,"GUI workflows, data processing, ruse pipelines"
+cpipe,cpipe,,https://github.com/MelbourneGenomics/cpipe,Alliance,genomic
+awe,AWE,https://mg-rast.github.io/AWE/,https://github.com/MG-RAST/AWE,Academia,
+skyport2,Skyport2,,https://github.com/MG-RAST/Skyport2,Academia,workflow execution
+comps,COMPs,https://www.bsc.es/research-and-development/software-and-apps/software-list/comp-superscalar/,https://github.com/bsc-wdc/compss,Academia,"parallel applicaiton, supercomputer"
+kliko,KLIKO,,https://github.com/gijzelaerr/kliko,Academia,copute container specification
+sosworkflow,SoS Workflow,https://vatlab.github.io/sos-docs/,https://github.com/vatlab/SoS,Academia,data science
+xnatpipelineengine,XNAT Pipeline Engine,https://www.xnat.org/,https://github.com/NrgXnat/xnat-pipeline-engine,Academia,bioinformatics
+metapipe,Metapipe ,,https://github.com/TorkamaniLab/metapipe,Academia,pipeline
+occam,OCCAM,https://occam.cs.pitt.edu/,https://occam.cs.pitt.edu/system/code,Academia,"workflow, software, reproducible"
+vistrails,VisTrails,https://www.vistrails.org,https://github.com/VisTrails/VisTrails,Academia,scientifix workflow managment system
+bionode,Bionode,,https://github.com/bionode/bionode-watermill,open-source-community,bioinformatice
+unicore,Unicore,https://www.unicore.eu/docstore/workflow-7.6.0/workflow-manual.html#wf_dialect,https://github.com/UNICORE-EU/uftp,Academia,super computing
+toil,Toil,http://toil.ucsc-cgl.org/,https://github.com/DataBiosphere/toil,Academia,genomic
+cylc,Cylc,https://cylc.github.io/,https://github.com/cylc/cylc-flow,Academia,general purpose
+cloudcomputecannon,Cloud Compute Cannon,,https://github.com/Autodesk/cloud-compute-cannon,commercial,general purpose
+civet,Civet,,https://github.com/TheJacksonLaboratory/civet,Non-Profit,
+cumulus,cumulus,,https://github.com/Kitware/cumulus,commercial,HPC workflow
+cloudgene,Cloudgene,http://www.cloudgene.io/,https://github.com/genepi/cloudgene,Academia,genomic
+fastr,FASTR,https://fastr.readthedocs.io/en/stable/,https://gitlab.com/radiology/infrastructure/fastr,Academia,general purpose
+biomake,biomake,,https://github.com/evoldoers/biomake,"Academia, Non-Profit",make-like for analysis workflows
+remake,remake,,https://github.com/richfitz/remake,Personal?,"make-like, workflow"
+openalea,OpenAlea,https://openalea.readthedocs.io/en/latest/,https://github.com/openalea/openalea,Academia,plant research
+combusti/o,COMBUSTI/O,,https://github.com/jarlebass/combustio,Personal,spark
+biocloud,BioCloud,,https://github.com/ccwang002/biocloud-server-kai,Academia,genomic
+anduril,Anduril,https://anduril.org/site/,https://bitbucket.org/anduril-dev/anduril/src/stable/,Academia,"workflow plaform, big data, genomics"
+dgsh,dgsh,https://www2.dmst.aueb.gr/dds/sw/dgsh/,https://github.com/dspinellis/dgsh,Academia,shell
+edge,EDGE,https://edge.readthedocs.io/en/latest/,https://github.com/LANL-Bioinformatics/EDGE,Academia,genomic
+pachyderm,Pachyderm,https://www.pachyderm.com/,https://github.com/pachyderm/pachyderm,commercial,"Data engineering, data-driven pipelines"
+digdag,digdag,https://www.digdag.io/,https://github.com/treasure-data/digdag/,enterprise,"workflow engine, data engineering, pipelines, ML"
+biodepotworkflowbuilder,BioDepot Workflow Builder,,https://github.com/BioDepot/BioDepot-workflow-builder,Academia,genomic
+imp,IMP,https://r3lab.uni.lu/web/imp/,https://git-r3lab.uni.lu/IMP/imp3,Academia,genomic
+butler,Butler,https://butler.readthedocs.io/en/latest/,https://github.com/yakneens/butler,Academia,"big data, scientific analysis"
+adage/yadage,adage / yadage,https://yadage.readthedocs.io/en/latest/,https://github.com/yadage/adage,Personal?,"DAG, workflow"
+hi-way,Hi-WAY,,https://github.com/marcbux/Hi-WAY,Academia,"YARN, workflow"
+openmole,OpenMOLE,,https://github.com/openmole/openmole,Academia,"dscabale, distributed computing"
+biopet,Biopet,https://github.com/biopet/biopet,https://github.com/biopet/biopet,Academia,genomic
+nephele,Nephele,https://nephele.niaid.nih.gov/,https://github.com/niaid/nephele2,National-Institute,bionformatics
+sbpipe,SBPipe,https://sbpipe.readthedocs.io/en/latest/,https://github.com/pdp10/sbpipe,Academia,
+dray,dray,http://dray.it/,https://github.com/CenturyLinkLabs/dray,Enterprise,container-based workflow engine
+genomevip,GenomeVIP,https://genomevip.readthedocs.io/,https://github.com/ding-lab/GenomeVIP,Academia,genomic
+roddy,Roddy,https://roddy-documentation.readthedocs.io/en/latest/,https://github.com/TheRoddyWMS/Roddy,National-Institute,workflow management system
+gnuguixworkflowlanguage,GNU Guix Workflow Language,https://www.guixwl.org/,https://git.savannah.gnu.org/cgit/gwl.git,Academia,scientific omputing
+porcupine,Porcupine,https://timvanmourik.github.io/Porcupine/,https://github.com/TimVanMourik/Porcupine,Academia,"bioinformatics, neuroimaging"
+giraffetools,GiraffeTools,https://giraffe.tools/,https://github.com/GiraffeTools/GiraffeTools,Academia?,workflow
+parsl,Parsl,http://parsl-project.org/,https://github.com/Parsl/parsl,Academia,parallel programming
+ecflow,ECFLOW ,https://ecflow.readthedocs.io/en/latest/index.html,https://github.com/ecmwf/ecflow,Research-Insitute,wheater forcast
+ophidia,ophidia,https://ophidia.cmcc.it/,https://github.com/OphidiaBigData/ophidia-analytics-framework,Academia,big data analytics framework
+ergatis,ergatis,https://ergatis.sourceforge.net/,https://github.com/jorvis/ergatis,Academia,bioinformatics
+archivematica,Archivematica,https://www.archivematica.org,https://github.com/artefactual/archivematica,Enterprise,digital preservation system
+martian,Martian,https://martian-lang.org/about/,https://github.com/martian-lang/martian,Enterprise,computational pipelines
+biomaj,BioMAJ,http://genouest.github.io/biomaj/,https://github.com/genouest/biomaj,Non-Profit-Research-Institute,workflow engine
+wildfire,Wildfire,http://wildfire.bii.a-star.edu.sg/,http://wildfire.bii.a-star.edu.sg/files/wildfire-2.0-src.zip,Academia,bioinformatics
+ngsane,Ngsane,https://github.com/BauerLab/ngsane,https://github.com/BauerLab/ngsane,Academia,bioinformatics
+pwrake,Pwrake,,https://github.com/misshie/Workflows,Academia,
+nesoni,Nesoni,,https://github.com/Victorian-Bioinformatics-Consortium/nesoni,Consortium,"bioinformatics, genomics"
+eugene,Eugene,http://eugene.toulouse.inra.fr./,https://github.com/tschiex/eugene,Academia,genomics
+papy,PaPy,,https://github.com/mcieslik-mctp/papy,Academia,bioinformatics
+jobcenter,Jobcenter,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3494518/,https://github.com/yeastrc/jobcenter,Academia,distributed job execution
+coreflow,CoreFlow,https://pubmed.ncbi.nlm.nih.gov/24503186/,https://github.com/pasculescu/CoreFlow,Academia,bioinformatics
+dynamic-pipeline,dynamic-pipeline,https://code.google.com/archive/p/dynamic-pipeline/,https://github.com/mairarodrigues/dynamic-pipeline,Academia,general-purpose pipeline
+eoulsan,Eoulsan,https://www.outils.genomique.biologie.ens.fr/eoulsan/,https://github.com/GenomiqueENS/eoulsan,Academia,"Wokflow engine, NGS, genomics"
+clouddoe,CloudDOE,http://clouddoe.iis.sinica.edu.tw/,https://github.com/CSCLabTW/CloudDOE,Academia,"Big Data, mapreduce, bioinformatics"
+biopig,BioPig,,https://github.com/JGI-Bioinformatics/biopig,Academia,"Big Data, map reduce, bioinformatics"
+seqpig,SeqPig,,https://github.com/HadoopGenomics/SeqPig,Academia,"Big Date, bioinformatics"
+zymake,Zymake,http://www-personal.umich.edu/~ebreck/code/zymake/,https://github.com/samuell/zymake-mirror,Academia,"make-like, shell-live"
+jms,JMS,,https://github.com/RUBi-ZA/JMS,Academia,workflow managment system
+wdl,WDL,https://openwdl.org/,https://github.com/openwdl/wdl,Academia,data processing workflows
+sciflow,SciFlow,,https://github.com/kaizhang/SciFlow,"Personal,Academia",sientific workflow managment
+bioshake,Bioshake,https://papenfusslab.github.io/bioshake,https://github.com/PapenfussLab/bioshake,Academia,bioinformatics workflow
+scipipe,SciPipe,https://scipipe.org/,https://github.com/scipipe/scipipe,Academia,scientific workflow
+kapacitor,Kapacitor,https://docs.influxdata.com/kapacitor/v1.6/introduction/getting-started/,https://github.com/influxdata/kapacitor,Enterprise,time series data processing
+aiida,AiiDA,https://www.aiida.net/,https://github.com/aiidateam/aiida-core,Academia,workflow manager for computational science
+reflow,reflow,,https://github.com/grailbio/reflow,Enterprise,data processing 
+resolwe,Resolwe,,https://github.com/genialis/resolwe,Enterprise,dataflow engine
+walrus,walrus,,https://github.com/fjukstad/walrus,Personal,data analysis pipeline
+apachebeam,Apache Beam,https://beam.apache.org/,https://github.com/apache/beam,Enterprise,data processing
+wopmars,WopMars,wopmars.readthedocs.org,https://github.com/aitgon/wopmars,Personal,workflow manager for computational science
+flowing-clj,flowing-clj,,https://github.com/stain/flowing-clj,Personal,workflows
+plumbing,Plumbing,,https://github.com/plumatic/plumbing,Community?,graph
+noflo,NoFlo,https://noflojs.org/,https://github.com/noflo/noflo,Kickstarter,"JavaScript, flow-based programming"
+hyperloom,HyperLoom,https://loom-it4i.readthedocs.io/en/latest/intro.html,https://code.it4i.cz/ADAS/loom,Academia,"workflow pipelines, distributed computing"
+dask,Dask,https://github.com/dask/dask,https://github.com/dask/dask,Personal,data analytics
+stimela,Stimela,,https://github.com/ratt-ru/Stimela,Academia,astronomy
+jtracker,JTracker,https://jtracker.io/,https://github.com/jtracker-io/jt-cli,,scientific workflow management system
+pipelinedog,PipelineDog,http://pipeline.dog/,https://github.com/zhouanbo/pipelinedog-web,Academia,scientific pipelines
+daliuge,DALiuGE,https://daliuge.readthedocs.io/en/latest/,https://github.com/ICRAR/daliuge,Academia,astronomy
+overseer,Overseer,,https://github.com/framed-data/overseer,Enterprise,"data pipeline, clojure"
+squonk,Squonk,https://squonk.it/,https://github.com/InformaticsMatters/squonk,Enterprise,Drug Discovery
+gc3pie,GC3Pie,https://gc3pie.readthedocs.io/en/master/,https://github.com/gc3pie/gc3pie,Academia,computational workflows
+fractalide,Fractalide,,https://github.com/fractalide/fractalide,Enterprise,reproducible workflows
+eclipseice,Eclipse ICE ,https://www.eclipse.org/ice/,https://gitlab.eclipse.org/eclipse/ice/ice,Community,"define problems, run simulations, analyze putputs, arhiece data"
+dispel4py,dispel4py,,https://github.com/dispel4py/dispel4py,Academia,
+neatseq-flow,NeatSeq-Flow,https://neatseq-flow.readthedocs.io/en/latest/,https://github.com/bioinfo-core-BGU/neatseq-flow,Academia,"NGS; workflow, genomics"
+s4m,S4M,https://bitbucket.org/uqokorn/s4m_base/wiki/Home,https://bitbucket.org/uqokorn/s4m_base/src/master/,,"linux-shell, bioinformatics"
+loom,Loom,https://med.stanford.edu/gbsc/pages/loom.html,https://github.com/StanfordBioinformatics/loom,Academia,bionformatics
+watchdog,Watchdog,,https://github.com/klugem/watchdog,Academia,bioinformatics
+phpflo,phpflo,,https://github.com/phpflo/phpflo,Community?,"PHP, flow-based programming"
+bastet,BASTet,https://openmsi.nersc.gov/openmsi/client/bastet.html,https://github.com/biorack/BASTet,Academia,reproducible data analysis
+ginflow,Ginflow,https://ginflow.inria.fr/,https://bitbucket.org/ginflow/hocl-workflow/src/master/,Academia,workflow engine
+sciapps,SciApps,https://www.sciapps.org/,https://github.com/warelab/sciapps,Academia,"scientific workflows, bioinformatics"
+stoa,Stoa,,https://github.com/petehague/Stoa,Personal?,astronomy
+collectiveknowledge,Collective Knowledge,https://cknowledge.org/,https://github.com/mlcommons/ck,Academia,reproducible data analysis
+htbac,HTBAC,https://htbac.readthedocs.io/en/latest/,https://github.com/radical-cybertools/htbac,Academia,"molecular dynamics, bioinformatics"
+bioworkbench,BioWorkbench,,https://github.com/mmondelli/bioworkbench,Academia,bionformatics
+pypeln,Pypeln,https://cgarciae.github.io/pypeln/,https://github.com/cgarciae/pypeln,Personal,"data pipelines, python, medium data"
+mpipe,MPipe,http://vmlaker.github.io/mpipe/,https://github.com/vmlaker/mpipe,Personal,data pipeline
+czid-dag,czid-dag,,https://github.com/chanzuckerberg/czid-dag,Non-Profit,
+czid-workflows,czid-workflows,https://czid.org/,https://github.com/chanzuckerberg/czid-workflows,Non-Profit,squencing pathogens
+piper,Piper ,,https://github.com/NationalGenomicsInfrastructure/piper,"Academia, National-Research",bioinformatics
+apacheoodt,Apache OODT,https://oodt.apache.org/,https://github.com/apache/oodt,National-Insitutue,processing pipelines
+cctools,CCTools,https://cctools.readthedocs.io/en/latest/about/,https://github.com/cooperative-computing-lab/cctools,Academia,science and engineering
+adios,ADIOS,http://csmd.ornl.gov/adios,https://github.com/ornladios/ADIOS2,Academia,"science, data description"
+genpipes,GenPipes,https://genap.ca/,https://bitbucket.org/mugqic/genpipes/src/master/,"Academia, Consortium","bioinformatics, genomics"
+argo,Argo,https://argoproj.github.io/,https://github.com/argoproj/argo-workflows,Enterprise,kubernetes
+reana,reana,https://www.reana.io/,https://github.com/reanahub/reana,Academia,science
+niassa,Niassa,,https://github.com/morgantaschuk/niassa-docs,,bioinformatics
+pypeflow,pypeFLOW,,https://github.com/PacificBiosciences/pypeFLOW,Enterprise,bioinformatics
+xbowflow,Xbowflow,,https://github.com/ChrisSuess/Project-Xbow,Academia,workflow
+adaptivemd,AdaptiveMD,,https://github.com/markovmodel/adaptivemd,Academia,"molecular dynamics, bioinformatics"
+meshroom,Meshroom,http://alicevision.org/,https://github.com/alicevision/meshroom,Non-Profit,3D Reconstruction Software
+lsstdatamanagement,LSST Data Management,https://pipelines.lsst.io/v/daily/index.html,https://github.com/lsst/pipe_base,Non-Profit,astronomy
+prefect,prefect,https://docs.prefect.io/latest/,https://github.com/PrefectHQ/prefect,Enterprise,data engineering
+iceprod,IceProd,,https://github.com/WIPACrepo/iceprod,Academia,physics
+anadama2,AnADAMA2,https://huttenhower.sph.harvard.edu/anadama2,https://github.com/biobakery/anadama2,Academia,bioinformatics
+enso,Enso,https://enso.org/,https://github.com/enso-org/enso,Enterprise,data analysis workflow
+kurator-akka,Kurator-Akka,,https://github.com/kurator-org/kurator-akka,Academia,data cleaning workflows
+jug,Jug,https://luispedro.org/software/jug/,http://github.com/luispedro/jug,Academia,parallel reproducible computation
+node-red,Node-RED,https://nodered.org/,https://github.com/node-red/node-red,Enterprise,event-driven applications
+databoltflow,Databolt Flow,https://www.databolt.tech/index-python-pro.html#flow,https://github.com/d6t/d6tflow,Enterprise,"data science, data engineering"
+dataflows,dataflows,https://www.dataflows.org,https://github.com/datahq/dataflows,Enterprise,"data engineering, ETL"
+volcano,Volcano,https://volcano.sh/en/,https://github.com/volcano-sh/volcano,Community,cloud native batch system
+datajoint,DataJoint,https://www.datajoint.org/,https://github.com/datajoint/datajoint-python,Academia,scientific workflow managment
+frictionlessdatapackagepipelines,Frictionless Data Package Pipelines,https://frictionlessdata.io/,https://github.com/frictionlessdata/datapackage-pipelines,Academia,data pipelines
+orange,Orange,https://orangedatamining.com/,https://github.com/biolab/orange3,Academia,data mining
+ensembletoolkit,Ensemble Toolkit,https://radicalentk.readthedocs.io/en/latest/entk.html,https://github.com/radical-cybertools/radical.entk,Academia,ensemble-based workflows
+bioqueue,BioQueue,https://www.bioqueue.org/,https://github.com/liyao001/BioQueue,Academia,bioinformatics
+mlr3pipelines,mlr3pipelines,https://mlr3pipelines.mlr-org.com/,https://github.com/mlr-org/mlr3pipelines/,Academia,R. pipelines
+kedro,Kedro,https://kedro.org/,https://github.com/kedro-org/kedro,Enterprise ,data science 
+dataview,DATAVIEW,http://www.dataview.org/,https://github.com/shiyonglu/DATAVIEW,Personal?,big data workflow management system
+secdataview,SecDATAVIEW,,https://github.com/shiyonglu/SecDATAVIEW,Academia,"big data workflow management system, security"
+uap,uap,,https://github.com/yigbt/uap,Academia,bioinformatics
+signac,signac,https://signac.io/,https://github.com/glotzerlab/signac,Academia,data management
+cwltool,cwltool,https://www.commonwl.org/,https://github.com/common-workflow-language/cwltool/,"Community, Academia",CWL implementation
+cwlexec,CWLEXEC,,https://github.com/yuch7/cwlexec,Enterprise,CWL implementation
+drmr,drmr,https://drmr.readthedocs.io/en/latest/,https://github.com/ParkerLab/drmr/,Academia,pipeline
+autosubmit,autosubmit,https://www.bsc.es/research-and-development/software-and-apps/software-list/autosubmit,https://autosubmit.readthedocs.io/en/latest/,Academia,scientific workflow
+judi,JUDI,https://pyjudi.readthedocs.io/en/latest/,https://github.com/ncbi/JUDI,Academia,bioinformatics
+sumatra,Sumatra,https://neuralensemble.org/sumatra/,https://github.com/open-research/sumatra,Academia,"reproducible research, ''automated electronic lab notebook'' for simulation/analysis projects"
+netflixconductor,Netflix Conductor,https://conductor.netflix.com/,https://github.com/Netflix/conductor,Enterprise,microservice orchestration engine
+pipengine,PipEngine,,https://github.com/fstrozzi/bioruby-pipengine,Academia,"bioinformatics, ngs"
+myqueue,MyQueue,https://myqueue.readthedocs.io/en/latest/,https://gitlab.com/myqueue/myqueue,Academia,task sumission
+drakerpackage,drake R package,,https://github.com/ropensci/drake,Academia,reproducible pipeline and hpc
+targets,targets,https://docs.ropensci.org/targets/,https://github.com/ropensci/targets,Academia,reproducible pipeline and hpc
+madats,MaDaTS,,https://github.com/dghoshal-lbl/madats,Academia,"data management, workflow"
+cadence,Cadence,https://cadenceworkflow.io/,https://github.com/uber/cadence,Enterprise,orchestration engine
+merlin,Merlin,https://merlin.readthedocs.io/en/latest/,https://github.com/LLNL/merlin,Academia,"ML workflow, HPC workflows"
+janis,Janis,https://janis.readthedocs.io/en/latest/index.html,https://github.com/PMCC-BioinformaticsCore/janis,Academia,workflow
+alphasql,AlphaSQL,,https://github.com/Matts966/alphasql,Personal,"SQL, DataWarehouse"
+zeebe,Zeebe,https://camunda.com/platform/zeebe/,https://github.com/camunda/zeebe,Enterprise,"workflow engine, microservice orchestration"
+durabletask,durabletask,,https://github.com/Azure/durabletask,Enterprise,"C# workflow orchestration, operations"
+maestroworkflowconductor,Maestro Workflow Conductor,https://maestrowf.readthedocs.io/en/latest/,https://github.com/LLNL/maestrowf,National-Institute,scientific workflow
+hyperflow,HyperFlow,,https://github.com/hyperflow-wms/hyperflow,Academia,scientific workflows
+braneframework,BRANE Framework,,https://github.com/onnovalkering/brane,Academia,
+braneframework,BRANE Framework,https://wiki.enablingpersonalizedinterventions.nl/,https://github.com/epi-project/brane,,orchestration
+apollowf,ApolloWF,,https://apollowf.github.io/,Academia,orchestration
+pyinvoke,pyinvoke,https://www.pyinvoke.org/,https://github.com/pyinvoke/invoke,Personal?,pythonic task execution
+compi,Compi ,http://sing-group.org/compi/,https://github.com/sing-group/compi,Academia,"portable, reproducible pipeline"
+triggerflow,TriggerFlow,,https://github.com/triggerflow/triggerflow,Academia,"workflow, orhcestration"
+pandaworkflowmanagementsystem,PanDA Workflow Management System,https://github.com/PanDAWMS,https://github.com/PanDAWMS/pandawms,Academia,"CERN, high energy physics"
+harvester,Harvester,,https://github.com/HSF/harvester,Academia,"high energy physics, CERN"
+bd-processor,BD-Processor,https://big-data-processor.github.io/bdp-document/,https://github.com/big-data-processor/bd-processor/,Academia,data science
+redun,redun,https://insitro.github.io/redun/,https://github.com/insitro/redun,Enterprise,workflow engine
+pyiron,pyiron,https://pyiron.org/,https://github.com/pyiron/pyiron,Academia,material science
+looper,looper,,https://github.com/pepkit/looper,Academia,bioinformatics
+dagster,dagster,https://dagster.io/,https://github.com/dagster-io/dagster,Enterprise,data engineering
+stackstorm,StackStorm,https://stackstorm.com/,https://github.com/StackStorm/st2,Enterprise,IFTTT for Ops
+geoweaver,Geoweaver,https://esipfed.github.io/Geoweaver/,https://github.com/ESIPFed/Geoweaver,Academia,geo science
+popper,Popper,https://getpopper.io/,https://github.com/getpopper/popper,Academia,task automation engine
+task,Task,https://taskfile.dev/,https://github.com/go-task/task,,"build tool, task runner"
+pypyr,pypyr,https://pypyr.io/,https://github.com/pypyr/pypyr/,,"task runner, automation"
+simtool,SimTool,https://simtool.readthedocs.io/en/stable/,https://github.com/hubzero/simtool,Academia,SimulationTool on HUBZero
+flyte,Flyte,https://flyte.org/,https://github.com/flyteorg/flyte,Community,"data and ML pipelines, orchestration"
+streamflow,StreamFlow,https://streamflow.di.unito.it/,https://github.com/alpha-unito/streamflow,Academia,WFMS
+jupyterworkflow,Jupyter Workflow,https://jupyter-workflow.di.unito.it/,https://github.com/alpha-unito/jupyter-workflow,Academia,Jupyter notebooks
+nnodes,Nnodes,https://icui.github.io/nnodes/index.html,https://github.com/icui/nnodes,Academia,wfms
+orchest,Orchest,https://www.orchest.io/,https://github.com/orchest/orchest,Enterprise,"data pipelines, workflows"
+wick,Wick,https://candle.dev/wick.html,https://github.com/candlecorp/wick,Enterprise,WebAssembly
+hypershell,HyperShell,https://hyper-shell.readthedocs.io/en/latest/,https://github.com/glentner/hyper-shell,Academia,HPC
+covalent,Covalent,https://www.covalent.xyz/,https://github.com/AgnostiqHQ/covalent,Academia,workflow orchestration
+icolos,Icolos,,https://github.com/MolecularAI/Icolos,Academia,"drug discovery, computational chemistry"
+dwork,dwork,,https://github.com/frobnitzem/dwork,Personal,work scheduling
+pmake,pmake,https://docs.olcf.ornl.gov/software/workflows/pmake.html#workflows-pmake,https://code.ornl.gov/99R/pmake,Academia,workflow system
+texera,Texera,https://texera.github.io/,https://github.com/Texera/texera,Academia,data analytics
+jobflow,Jobflow,https://materialsproject.github.io/jobflow/,https://github.com/materialsproject/jobflow,Consortium,computational workflow
+balsam,Balsam,https://balsam.readthedocs.io/en/latest/,https://github.com/argonne-lcf/balsam,Academia,HPC
+taskvine,Task Vine,https://ccl.cse.nd.edu/software/taskvine/,https://github.com/cooperative-computing-lab/cctools,,"HPC, workflow system"
+globuscompute,Globus Compute,https://www.globus.org/,https://github.com/funcx-faas/funcx,,high performance FAAS
+mkite,mkite,https://mkite.org/,https://github.com/mkite-group/mkite_core,,materials science
+hpcflow,hpcflow,https://lightform.org.uk/,https://github.com/LightForm-group/hpcflow,,scientific workflow
+dvc,DVC,https://dvc.org/doc/start/data-management/data-pipelines,https://github.com/iterative/dvc,,data version control
+znflow,ZnFlow,,https://github.com/zincware/ZnFlow,,computational graphs

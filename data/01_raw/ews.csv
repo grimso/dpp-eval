@@ -1,0 +1,337 @@
+tool	tool_description	project_url	repository_url	publication_url	raw
+Arvados	CWL-based distributed computing platform for data analysis on massive data sets.	['https://arvados.org/']	['https://github.com/arvados/arvados']	[]	#. Arvados - CWL-based distributed computing platform for data analysis on massive data sets. https://arvados.org/ https://github.com/arvados/arvados
+Apache Taverna		['http://www.taverna.org.uk/', 'https://taverna.incubator.apache.org/']	[]	[]	#. Apache Taverna http://www.taverna.org.uk/ https://taverna.incubator.apache.org/
+Galaxy		['http://galaxyproject.org/']	[]	[]	#. Galaxy http://galaxyproject.org/
+SHIWA		['https://www.shiwa-workflow.eu/']	[]	[]	#. SHIWA https://www.shiwa-workflow.eu/
+Apache Oozie		['https://oozie.apache.org/']	[]	[]	#. Apache Oozie https://oozie.apache.org/
+DNANexus		['https://wiki.dnanexus.com/API-Specification-v1.0.0/IO-and-Run-Specifications', 'https://wiki.dnanexus.com/API-Specification-v1.0.0/Workflows-and-Analyses']	[]	[]	#. DNANexus https://wiki.dnanexus.com/API-Specification-v1.0.0/IO-and-Run-Specifications https://wiki.dnanexus.com/API-Specification-v1.0.0/Workflows-and-Analyses
+BioDT		['http://www.biodatomics.com/', 'https://web.archive.org/web/20180609011656/http://www.biodatomics.com/']	[]	[]	#. |ss| BioDT http://www.biodatomics.com/ |se| archived at https://web.archive.org/web/20180609011656/http://www.biodatomics.com/
+Agave		['http://agaveapi.co/live-docs/']	[]	[]	#. Agave http://agaveapi.co/live-docs/
+DiscoveryEnvironment		['http://www.iplantcollaborative.org/ci/discovery-environment']	[]	[]	#. DiscoveryEnvironment http://www.iplantcollaborative.org/ci/discovery-environment
+Wings		['http://www.wings-workflows.org/']	[]	[]	#. Wings http://www.wings-workflows.org/
+Knime		['https://www.knime.org/']	[]	[]	#. Knime https://www.knime.org/
+make, rake, drake, ant, scons & many others	Software development relies heavily on tools to manage workflows related to compiling and packaging applications.  For the most part these are file based and usually run on a single node, usually supporting parallel steps (make -j) and in some cases able to dispatch build steps to other machines	['https://code.google.com/p/distcc/']	['https://github.com/Factual/drake']	[]	#. make, rake, drake, ant, scons & many others. Software development relies heavily on tools to manage workflows related to compiling and packaging applications.  For the most part these are file based and usually run on a single node, usually supporting parallel steps (make -j) and in some cases able to dispatch build steps to other machines https://code.google.com/p/distcc/ https://github.com/Factual/drake
+Snakemake		['https://snakemake.github.io']	[]	[]	#. Snakemake https://snakemake.github.io
+BPipe		['http://bpipe.org', 'http://docs.bpipe.org/']	[]	[]	#. BPipe http://bpipe.org http://docs.bpipe.org/
+Ruffus		[]	['https://github.com/cgat-developers/ruffus']	[]	#. Ruffus https://github.com/cgat-developers/ruffus
+NextFlow		['http://nextflow.io']	[]	[]	#. NextFlow http://nextflow.io
+Luigi	Python package that helps you build complex pipelines of batch jobs	['https://luigi.readthedocs.io']	['http://github.com/spotify/luigi']	[]	#. Luigi. Python package that helps you build complex pipelines of batch jobs http://github.com/spotify/luigi https://luigi.readthedocs.io
+SciLuigi	Helper library built on top of Luigi to ease development of Scientific workflows in Luigi:	[]	['http://github.com/pharmbio/sciluigi']	[]	#. SciLuigi. Helper library built on top of Luigi to ease development of Scientific workflows in Luigi: http://github.com/pharmbio/sciluigi
+Luigi Analysis Workflow	(LAW)	[]	['https://github.com/riga/law']	[]	#. Luigi Analysis Workflow (LAW) https://github.com/riga/law
+GATK Queue		['https://www.broadinstitute.org/gatk/guide/topic?name=queue']	[]	[]	#. GATK Queue https://www.broadinstitute.org/gatk/guide/topic?name=queue
+Yabi		['https://ccg.murdoch.edu.au/yabi']	[]	[]	#. Yabi https://ccg.murdoch.edu.au/yabi
+SeqWare	seqware Workflows are written in Java and executed using the Oozie Workflow Engine on Hadoop or SGE clustersUses Zip64 files to group the workflow definition file, workflow itself, sample settings, and data dependencies in a single file that can be exchanged between SeqWare users or archived.	['https://seqware.github.io/', 'https://seqware.github.io/docs/6-pipeline/']	[]	[]	#. seqware Workflows are written in Java and executed using the Oozie Workflow Engine on Hadoop or SGE clusters. Uses Zip64 files to group the workflow definition file, workflow itself, sample settings, and data dependencies in a single file that can be exchanged between SeqWare users or archived. https://seqware.github.io/ https://seqware.github.io/docs/6-pipeline/
+Ketrew		[]	['https://github.com/hammerlab/ketrew']	[]	#. Ketrew https://github.com/hammerlab/ketrew
+Pegasus		['http://pegasus.isi.edu/']	[]	[]	#. Pegasus http://pegasus.isi.edu/
+Apache Airflow		[]	['https://github.com/apache/airflow']	[]	#. Apache Airflow https://github.com/apache/airflow
+Couler		[]	['https://github.com/couler-proj/couler']	[]	#. Couler https://github.com/couler-proj/couler - Unified interface for constructing and managing workflows on different workflow engines, such as Argo Workflows, Tekton Pipelines, and Apache Airflow.
+Cosmos		['https://cosmos.hms.harvard.edu/documentation/index.html', 'http://cosmos.hms.harvard.edu/COSMOS2/']	['https://github.com/LPM-HMS/COSMOS2']	['http://bioinformatics.oxfordjournals.org/content/early/2014/07/24/bioinformatics.btu385.full']	#. Cosmos https://cosmos.hms.harvard.edu/documentation/index.html http://bioinformatics.oxfordjournals.org/content/early/2014/07/24/bioinformatics.btu385.full [paper] Cosmos2: https://github.com/LPM-HMS/COSMOS2 http://cosmos.hms.harvard.edu/COSMOS2/
+Pinball		[]	['https://github.com/pinterest/pinball']	[]	#. Pinball https://github.com/pinterest/pinball
+bcbio		['https://bcbio-nextgen.readthedocs.org/en/latest/']	[]	[]	#. bcbio https://bcbio-nextgen.readthedocs.org/en/latest/
+Chronos		[]	['https://github.com/mesos/chronos']	[]	#. Chronos https://github.com/mesos/chronos
+Azkaban		['https://azkaban.github.io/']	[]	[]	#. Azkaban https://azkaban.github.io/
+Apache NiFi		['https://nifi.apache.org/docs/nifi-docs/html/overview.html']	[]	[]	#. Apache NiFi https://nifi.apache.org/docs/nifi-docs/html/overview.html
+flowr	(R-based)	['http://docs.flowr.space/']	['https://github.com/sahilseth/flowr']	[]	#. flowr (R-based) http://docs.flowr.space/ https://github.com/sahilseth/flowr
+Mistral		['https://wiki.openstack.org/wiki/Mistral#What_is_Mistral.3F', 'https://docs.openstack.org/mistral/latest/user/wf_lang_v2.html']	['https://github.com/arteria-project']	[]	#. Mistral https://github.com/arteria-project https://wiki.openstack.org/wiki/Mistral#What_is_Mistral.3F https://docs.openstack.org/mistral/latest/user/wf_lang_v2.html
+nipype		['http://nipy.org/nipype/']	[]	[]	#. nipype http://nipy.org/nipype/
+End of Day		[]	['https://github.com/joestubbs/endofday']	[]	#. End of Day https://github.com/joestubbs/endofday
+BioDSL		[]	['https://github.com/maasha/BioDSL']	[]	#. BioDSL https://github.com/maasha/BioDSL
+BigDataScript		['http://pcingola.github.io/BigDataScript/']	[]	[]	#. BigDataScript http://pcingola.github.io/BigDataScript/
+Omics Pipe	uses Ruffus	['http://sulab.scripps.edu/omicspipe/']	[]	[]	#. Omics Pipe: uses Ruffus http://sulab.scripps.edu/omicspipe/
+Ensembl Hive		[]	['https://github.com/Ensembl/ensembl-hive']	[]	#. Ensembl Hive https://github.com/Ensembl/ensembl-hive
+QuickNGS		['http://bifacility.uni-koeln.de/quickngs/web']	[]	[]	#. QuickNGS http://bifacility.uni-koeln.de/quickngs/web
+GenePattern		['http://www.broadinstitute.org/cancer/software/genepattern/']	[]	[]	#. GenePattern http://www.broadinstitute.org/cancer/software/genepattern/
+Chipster		['http://chipster.csc.fi/']	[]	[]	#. Chipster http://chipster.csc.fi/
+The Genome Modeling System		[]	['https://github.com/genome/gms']	[]	#. The Genome Modeling System https://github.com/genome/gms
+Cuneiform, A Functional Workflow Language		['http://www.cuneiform-lang.org/']	['https://github.com/joergen7/cuneiform']	[]	#. Cuneiform, A Functional Workflow Language https://github.com/joergen7/cuneiform http://www.cuneiform-lang.org/
+Anvaya		['http://webapp.cabgrid.res.in/biocomp/Anvaya/ANVAYA_Main.html#HOWTO_INSTALL_ANVAYA']	[]	['http://www.ncbi.nlm.nih.gov/pubmed/22809419']	#. Anvaya http://www.ncbi.nlm.nih.gov/pubmed/22809419 http://webapp.cabgrid.res.in/biocomp/Anvaya/ANVAYA_Main.html#HOWTO_INSTALL_ANVAYA
+Makeflow		['http://ccl.cse.nd.edu/software/makeflow/']	[]	[]	#. Makeflow http://ccl.cse.nd.edu/software/makeflow/
+Apache Airavata		['http://airavata.apache.org/']	[]	[]	#. Apache Airavata http://airavata.apache.org/
+Pyflow		[]	['https://github.com/Illumina/pyflow']	[]	#. Pyflow https://github.com/Illumina/pyflow
+Cluster Flow		['http://clusterflow.io']	[]	[]	#. Cluster Flow http://clusterflow.io
+Unipro UGENE		['http://ugene.net/']	[]	['https://doi.org/10.7717/peerj.644']	#. Unipro UGENE http://ugene.net/ https://doi.org/10.7717/peerj.644
+CloudSlang		['http://www.cloudslang.io/']	[]	[]	#. CloudSlang http://www.cloudslang.io/
+Stacks		['http://catchenlab.life.illinois.edu/stacks/']	[]	[]	#. Stacks http://catchenlab.life.illinois.edu/stacks/
+Leaf		['http://www.francesconapolitano.it/leaf/index.html']	[]	[]	#. Leaf http://www.francesconapolitano.it/leaf/index.html
+omictools		['http://omictools.com/']	[]	[]	#. omictools http://omictools.com/
+Job Description Language	The Job Description Language, JDL, is a high-level, user-oriented language based on Condor classified advertisements for describing jobs and aggregates of jobs such as Direct Acyclic Graphs and Collections.	['https://edms.cern.ch/ui/file/590869/1/WMS-JDL.pdf']	[]	[]	#. Job Description Language. The Job Description Language, JDL, is a high-level, user-oriented language based on Condor classified advertisements for describing jobs and aggregates of jobs such as Direct Acyclic Graphs and Collections. https://edms.cern.ch/ui/file/590869/1/WMS-JDL.pdf
+YAWL yet another workflow language		['http://www.yawlfoundation.org/']	[]	['https://doi.org/10.1016/j.is.2004.02.002']	#. YAWL yet another workflow language https://doi.org/10.1016/j.is.2004.02.002 http://www.yawlfoundation.org/
+Triquetrum		['https://projects.eclipse.org/projects/technology.triquetrum']	['https://github.com/eclipse/triquetrum/']	[]	#. Triquetrum https://projects.eclipse.org/projects/technology.triquetrum https://github.com/eclipse/triquetrum/
+Kronos		[]	['https://github.com/jtaghiyar/kronos']	[]	#. Kronos https://github.com/jtaghiyar/kronos
+qsubsec		[]	['https://github.com/alastair-droop/qsubsec']	['https://doi.org/10.1093/bioinformatics/btv698']	#. qsubsec https://github.com/alastair-droop/qsubsec https://doi.org/10.1093/bioinformatics/btv698 
+YesWorkflow		['http://yesworkflow.org']	[]	[]	#. YesWorkflow http://yesworkflow.org
+gwf	Grid WorkFlow	['http://gwf.readthedocs.io/']	['https://github.com/gwforg/gwf']	[]	#. gwf - Grid WorkFlow https://github.com/gwforg/gwf http://gwf.readthedocs.io/
+Fireworks		[]	['https://github.com/materialsproject/fireworks', 'https://github.com/materialsproject/fireworks']	['https://doi.org/10.1002/cpe.3505}']	#. Fireworks. https://github.com/materialsproject/fireworks https://github.com/materialsproject/fireworks https://doi.org/10.1002/cpe.3505}
+NGLess	NGS with less work	['http://ngless.rtfd.io']	[]	[]	#. NGLess: NGS with less work http://ngless.rtfd.io
+pypipegraph		[]	['https://github.com/TyberiusPrime/pypipegraph']	[]	#. pypipegraph https://github.com/TyberiusPrime/pypipegraph
+Cromwell		[]	['https://github.com/broadinstitute/cromwell']	[]	#. Cromwell https://github.com/broadinstitute/cromwell
+Dagobah	Simple DAG-based job scheduler in Python.	[]	['https://github.com/thieman/dagobah']	[]	#. Dagobah - Simple DAG-based job scheduler in Python. https://github.com/thieman/dagobah
+sushi		[]	['https://github.com/uzh/sushi']	[]	#. sushi https://github.com/uzh/sushi
+Clinical Trial Processor	A program for processing clinical trials data.	['http://mircwiki.rsna.org/index.php?title=MIRC_CTP']	[]	[]	#. Clinical Trial Processor - A program for processing clinical trials data.  http://mircwiki.rsna.org/index.php?title=MIRC_CTP
+Noodles		['http://nlesc.github.io/noodles/']	[]	[]	#. Noodles http://nlesc.github.io/noodles/
+Swift & Swift/T		['http://swift-lang.org/main/', 'http://swift-lang.org/Swift-T/']	[]	[]	#. Swift & Swift/T http://swift-lang.org/main/ http://swift-lang.org/Swift-T/
+Consonance	(runs SeqWare & CWL)	[]	['https://github.com/Consonance/consonance/wiki']	[]	#. Consonance (runs SeqWare & CWL) https://github.com/Consonance/consonance/wiki
+Dog		[]	['https://github.com/dogtools/dog']	[]	#. Dog https://github.com/dogtools/dog
+Produce		[]	['https://github.com/texttheater/produce']	[]	#. Produce https://github.com/texttheater/produce
+LONI Pipeline		['http://pipeline.loni.usc.edu/']	[]	[]	#. LONI Pipeline http://pipeline.loni.usc.edu/
+Cpipe		[]	['https://github.com/MelbourneGenomics/cpipe']	[]	#. Cpipe https://github.com/MelbourneGenomics/cpipe
+AWE		[]	['https://github.com/MG-RAST/AWE']	[]	#. AWE https://github.com/MG-RAST/AWE
+(Py)COMPSs		['https://www.bsc.es/research-and-development/software-and-apps/software-list/comp-superscalar/']	[]	[]	#. (Py)COMPSs https://www.bsc.es/research-and-development/software-and-apps/software-list/comp-superscalar/
+KLIKO		[]	['https://github.com/gijzelaerr/kliko']	[]	#. KLIKO https://github.com/gijzelaerr/kliko
+SoS Workflow		['https://vatlab.github.io/sos-docs/']	['https://github.com/vatlab/SoS']	['https://doi.org/10.1093/bioinformatics/bty405', 'https://doi.org/10.1371/journal.pcbi.1006843']	#. SoS Workflow https://github.com/vatlab/SoS https://vatlab.github.io/sos-docs/ https://doi.org/10.1093/bioinformatics/bty405  https://doi.org/10.1371/journal.pcbi.1006843
+XNAT Pipeline Engine		['https://wiki.xnat.org/display/XNAT/Pipeline+Engine', 'https://wiki.xnat.org/display/XNAT/XNAT+Pipeline+Development+Schema']	[]	[]	#. XNAT Pipeline Engine https://wiki.xnat.org/display/XNAT/Pipeline+Engine https://wiki.xnat.org/display/XNAT/XNAT+Pipeline+Development+Schema
+Metapipe		[]	['https://github.com/TorkamaniLab/metapipe']	[]	#. Metapipe https://github.com/TorkamaniLab/metapipe
+OCCAM	(Open Curation for Computer Architecture Modeling)	['https://occam.cs.pitt.edu/']	[]	[]	#. OCCAM (Open Curation for Computer Architecture Modeling) https://occam.cs.pitt.edu/
+Copernicus		['http://www.copernicus-computing.org']	[]	[]	#. Copernicus http://www.copernicus-computing.org
+iRODS Rule Language		[]	['https://github.com/samuell/irods-cheatsheets/blob/master/irods-rule-lang-full-guide.md']	[]	#. iRODS Rule Language https://github.com/samuell/irods-cheatsheets/blob/master/irods-rule-lang-full-guide.md
+VisTrails		['https://www.vistrails.org']	[]	[]	#. VisTrails https://www.vistrails.org
+Bionode Watermill		[]	['https://github.com/bionode/bionode-watermill']	[]	#. Bionode Watermill https://github.com/bionode/bionode-watermill
+BIOVIA Pipeline Pilot Overview		['http://accelrys.com/products/collaborative-science/biovia-pipeline-pilot/']	[]	[]	#. BIOVIA Pipeline Pilot Overview http://accelrys.com/products/collaborative-science/biovia-pipeline-pilot/
+Dagman A meta-scheduler for HTCondor		['https://research.cs.wisc.edu/htcondor/dagman/dagman.html']	[]	[]	#. Dagman A meta-scheduler for HTCondor https://research.cs.wisc.edu/htcondor/dagman/dagman.html
+UNICORE		['https://www.unicore.eu/docstore/workflow-7.6.0/workflow-manual.html#wf_dialect']	[]	[]	#. UNICORE https://www.unicore.eu/docstore/workflow-7.6.0/workflow-manual.html#wf_dialect
+Toil	(A scalable, efficient, cross-platform and easy-to-use workflow engine in pure Python)	[]	['https://github.com/BD2KGenomics/toil']	[]	#. Toil (A scalable, efficient, cross-platform and easy-to-use workflow engine in pure Python) https://github.com/BD2KGenomics/toil
+Cylc	(a workflow engine for cycling systems)	['https://cylc.github.io/']	[]	[]	#. Cylc (a workflow engine for cycling systems) https://cylc.github.io/
+Autodesk Cloud Compute Canon		[]	['https://github.com/Autodesk/cloud-compute-cannon']	[]	#. Autodesk Cloud Compute Canon https://github.com/Autodesk/cloud-compute-cannon
+Civet		[]	['https://github.com/TheJacksonLaboratory/civet']	[]	#. Civet https://github.com/TheJacksonLaboratory/civet
+Cumulus		[]	['https://github.com/Kitware/cumulus']	[]	#. Cumulus https://github.com/Kitware/cumulus
+High-performance integrated virtual environment	(HIVE)	['https://hive.biochemistry.gwu.edu']	[]	[]	#. High-performance integrated virtual environment (HIVE) https://hive.biochemistry.gwu.edu
+Cloudgene		['http://cloudgene.uibk.ac.at/cloudgene-yaml']	[]	[]	#. Cloudgene http://cloudgene.uibk.ac.at/cloudgene-yaml
+FASTR		['http://fastr.readthedocs.io/en/stable/']	['https://bitbucket.org/bigr_erasmusmc/fastr/']	[]	#. FASTR https://bitbucket.org/bigr_erasmusmc/fastr/ http://fastr.readthedocs.io/en/stable/
+BioMake		[]	['https://github.com/evoldoers/biomake']	['https://doi.org/10.1101/093245']	#. BioMake https://github.com/evoldoers/biomake https://doi.org/10.1101/093245
+remake		[]	['https://github.com/richfitz/remake']	[]	#. remake https://github.com/richfitz/remake
+SciFloware		['http://www-sop.inria.fr/members/Didier.Parigot/pmwiki/Scifloware/']	[]	[]	#. SciFloware http://www-sop.inria.fr/members/Didier.Parigot/pmwiki/Scifloware/
+OpenAlea		['https://openalea.rtfd.io']	[]	['https://hal.archives-ouvertes.fr/hal-01166298/file/openalea-PradalCohen-Boulakia.pdf']	#. OpenAlea https://openalea.rtfd.io https://hal.archives-ouvertes.fr/hal-01166298/file/openalea-PradalCohen-Boulakia.pdf
+COMBUSTI/O		['http://hdl.handle.net/10037/9361']	['https://github.com/jarlebass/combustio']	[]	#. COMBUSTI/O https://github.com/jarlebass/combustio http://hdl.handle.net/10037/9361
+BioCloud		[]	['https://github.com/ccwang002/biocloud-server-kai']	['https://doi.org/10.6342/NTU201601295']	#. BioCloud https://github.com/ccwang002/biocloud-server-kai https://doi.org/10.6342/NTU201601295
+Triana		['http://www.trianacode.org/']	[]	[]	#. |ss| Triana http://www.trianacode.org/ |se| (website seems to have been taken over by SEO)
+Kepler		['https://kepler-project.org/']	[]	[]	#. Kepler https://kepler-project.org/
+Anduril		['http://anduril.org/site/']	[]	[]	#. Anduril http://anduril.org/site/
+dgsh		['http://www.dmst.aueb.gr/dds/sw/dgsh/']	[]	[]	#. dgsh http://www.dmst.aueb.gr/dds/sw/dgsh/
+EDGE bioinformatics	Empowering the Development of Genomics Expertise	['https://bioedge.lanl.gov/edge_ui/', 'http://edge.readthedocs.io/', 'https://lanl-bioinformatics.github.io/EDGE/']	[]	[]	#. EDGE bioinformatics: Empowering the Development of Genomics Expertise https://bioedge.lanl.gov/edge_ui/ http://edge.readthedocs.io/ https://lanl-bioinformatics.github.io/EDGE/
+Pachyderm		['http://pachyderm.io/', 'http://pachyderm.readthedocs.io/en/stable/advanced/advanced.html']	[]	[]	#. Pachyderm http://pachyderm.io/ http://pachyderm.readthedocs.io/en/stable/advanced/advanced.html
+Digdag		['https://www.digdag.io/']	[]	[]	#. Digdag https://www.digdag.io/
+Agua / Automated Genomics Utilities Agent		['http://aguadev.org']	[]	[]	#. Agua / Automated Genomics Utilities Agent http://aguadev.org
+BioDepot Workflow Builder	(BwB)	[]	['https://github.com/BioDepot/BioDepot-workflow-builder']	['https://doi.org/10.1101/099010']	#. BioDepot Workflow Builder (BwB) https://github.com/BioDepot/BioDepot-workflow-builder https://doi.org/10.1101/099010
+IMP	a pipeline for reproducible reference-independent integrated metagenomic and metatranscriptomic analyses	['http://r3lab.uni.lu/web/imp/']	[]	['https://doi.org/10.1186/s13059-016-1116-8']	#. IMP: a pipeline for reproducible reference-independent integrated metagenomic and metatranscriptomic analyses http://r3lab.uni.lu/web/imp/ https://doi.org/10.1186/s13059-016-1116-8
+Butler		[]	['https://github.com/llevar/butler']	[]	#. Butler https://github.com/llevar/butler
+adage / yadage		[]	['https://github.com/diana-hep/adage', 'https://github.com/diana-hep/yadage']	[]	#. adage / yadage https://github.com/diana-hep/adage https://github.com/diana-hep/yadage
+HI-WAY	Execution of Scientific Workflows on Hadoop YARN	[]	['https://github.com/marcbux/Hi-WAY']	['https://openproceedings.org/2017/conf/edbt/paper-248.pdf']	#. HI-WAY: Execution of Scientific Workflows on Hadoop YARN https://github.com/marcbux/Hi-WAY https://openproceedings.org/2017/conf/edbt/paper-248.pdf
+OpenMOLE		['https://www.openmole.org/']	['https://github.com/openmole/openmole']	['https://doi.org/10.3389/fninf.2017.00021']	#. OpenMOLE https://github.com/openmole/openmole https://www.openmole.org/ https://doi.org/10.3389/fninf.2017.00021
+Biopet		[]	['https://github.com/biopet/biopet']	[]	#. Biopet https://github.com/biopet/biopet
+Nephele		['https://nephele.niaid.nih.gov/']	[]	[]	#. Nephele https://nephele.niaid.nih.gov/
+TOPPAS		[]	[]	['https://doi.org/10.1021/pr300187f']	#. TOPPAS https://doi.org/10.1021/pr300187f
+SBpipe		['https://pdp10.github.io/sbpipe/']	['https://github.com/pdp10/sbpipe']	['https://doi.org/10.1186/s12918-017-0423-3']	#. SBpipe https://pdp10.github.io/sbpipe/ https://github.com/pdp10/sbpipe https://doi.org/10.1186/s12918-017-0423-3
+Dray		['http://dray.it/']	[]	[]	#. |ss| Dray http://dray.it/ |se| (website seems to have been taken over by SEO)
+GenomeVIP		[]	['https://github.com/ding-lab/GenomeVIP']	['https://doi.org/10.1101/gr.211656.116']	#. GenomeVIP https://github.com/ding-lab/GenomeVIP https://doi.org/10.1101/gr.211656.116
+GridSAM		['https://sourceforge.net/projects/gridsam/']	[]	[]	#. GridSAM https://sourceforge.net/projects/gridsam/
+Roddy		[]	['https://github.com/eilslabs/Roddy']	[]	#. Roddy https://github.com/eilslabs/Roddy
+SciFlo	(historical; doesn't seem to be maintained anymore)	['https://web.archive.org/web/20161118011409/https://sciflo.jpl.nasa.gov/SciFloWiki/FrontPage']	[]	[]	#. SciFlo (historical; doesn't seem to be maintained anymore) https://web.archive.org/web/20161118011409/https://sciflo.jpl.nasa.gov/SciFloWiki/FrontPage
+GNU Guix Workflow Language		['https://git.roelj.com/guix/gwl.git#gnu-guix-workflow-language-extension']	['https://github.com/UMCUGenetics/guix-workflows/blob/master/umcu/workflows/rnaseq.scm']	[]	#. GNU Guix Workflow Language https://git.roelj.com/guix/gwl.git#gnu-guix-workflow-language-extension https://github.com/UMCUGenetics/guix-workflows/blob/master/umcu/workflows/rnaseq.scm
+Porcupine		['https://timvanmourik.github.io/Porcupine/']	[]	[]	#. Porcupine https://timvanmourik.github.io/Porcupine/
+Parsl	(a Parallel Scripting Library for Python)	['http://parsl-project.org']	[]	[]	#. Parsl (a Parallel Scripting Library for Python) http://parsl-project.org
+ECFLOW	(Workflow primarily for Meteorological Applications)	['https://software.ecmwf.int/wiki/display/ECFLOW/ecflow+home']	[]	[]	#. ECFLOW (Workflow primarily for Meteorological Applications) https://software.ecmwf.int/wiki/display/ECFLOW/ecflow+home
+Ophidia		['http://ophidia.cmcc.it/']	[]	[]	#. Ophidia http://ophidia.cmcc.it/
+WebLicht		['https://weblicht.sfs.uni-tuebingen.de/']	[]	[]	#. WebLicht https://weblicht.sfs.uni-tuebingen.de/
+GATE Cloud		['https://cloud.gate.ac.uk/']	[]	[]	#. GATE Cloud https://cloud.gate.ac.uk/
+SCIPION		['http://scipion.cnb.csic.es/m/home/']	['https://github.com/I2PC/scipion/wiki/Creating-a-Protocol']	[]	#. SCIPION http://scipion.cnb.csic.es/m/home/ https://github.com/I2PC/scipion/wiki/Creating-a-Protocol
+Ergatis		['http://ergatis.sourceforge.net/']	[]	[]	#. Ergatis http://ergatis.sourceforge.net/
+"TIGR ""Workflow"""		['https://sourceforge.net/projects/tigr-workflow/', 'http://tigr-workflow.sourceforge.net/']	[]	[]	"#. TIGR ""Workflow"" https://sourceforge.net/projects/tigr-workflow/ http://tigr-workflow.sourceforge.net/"
+Archivematica		['https://wiki.archivematica.org/Main_Page', 'https://en.wikipedia.org/wiki/Open_Archival_Information_System]]']	[]	[]	#. Archivematica https://wiki.archivematica.org/Main_Page (A preservation workflow system that implements the [[ISO-OAIS|https://en.wikipedia.org/wiki/Open_Archival_Information_System]] standard using gearman/MCP)
+Martian		['http://martian-lang.org/about/']	[]	[]	#. Martian http://martian-lang.org/about/
+BioMAJ		['http://genouest.github.io/biomaj/']	[]	[]	#. BioMAJ http://genouest.github.io/biomaj/
+Conveyor		['http://conveyor.cebitec.uni-bielefeld.de']	[]	['https://academic.oup.com/bioinformatics/article/27/7/903/230562/Conveyor-a-workflow-engine-for-bioinformatic']	#. Conveyor http://conveyor.cebitec.uni-bielefeld.de (retired). https://academic.oup.com/bioinformatics/article/27/7/903/230562/Conveyor-a-workflow-engine-for-bioinformatic
+Biopipe		['http://www.biopipe.org']	[]	['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC403782/']	#. Biopipe http://www.biopipe.org (appears to be defunct) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC403782/
+Wildfire		['http://wildfire.bii.a-star.edu.sg/']	[]	['https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-6-69']	#. Wildfire http://wildfire.bii.a-star.edu.sg/ https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-6-69
+BioWBI		[]	[]	['http://bioinformatics.hsanmartino.it/bits_library/library/00079.pdf']	#. BioWBI http://bioinformatics.hsanmartino.it/bits_library/library/00079.pdf
+BioWMS		[]	[]	['http://bioinformatics.hsanmartino.it/bits_library/library/00568.pdf']	#. BioWMS http://bioinformatics.hsanmartino.it/bits_library/library/00568.pdf
+BioMoby		['http://biomoby.open-bio.org/']	[]	['https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-7-523']	#. BioMoby http://biomoby.open-bio.org/ https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-7-523
+SIBIOS		[]	[]	['http://ieeexplore.ieee.org/document/1309094/']	#. SIBIOS http://ieeexplore.ieee.org/document/1309094/
+NGSANE		[]	['https://github.com/BauerLab/ngsane']	['https://academic.oup.com/bioinformatics/article/30/10/1471/266879/NGSANE-a-lightweight-production-informatics']	#. NGSANE https://github.com/BauerLab/ngsane https://academic.oup.com/bioinformatics/article/30/10/1471/266879/NGSANE-a-lightweight-production-informatics
+Pwrake		[]	['https://github.com/misshie/Workflows']	['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3180464/']	#. Pwrake https://github.com/misshie/Workflows https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3180464/
+Nesoni		[]	['https://github.com/Victorian-Bioinformatics-Consortium/nesoni']	[]	#. Nesoni https://github.com/Victorian-Bioinformatics-Consortium/nesoni
+Skam		['http://skam.sourceforge.net/skam-intro.html']	[]	[]	#. Skam http://skam.sourceforge.net/skam-intro.html
+TREVA		['http://bioinformatics.petermac.org/treva/']	[]	['http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0095217']	#. TREVA http://bioinformatics.petermac.org/treva/ http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0095217
+EGene		[]	[]	['https://www.semanticscholar.org/paper/EGene-a-configurable-pipeline-generation-system-fo-Durham-Kashiwabara/4c0656195b5efcdd3aa7bdcb55fc95a957c150aa', 'https://academic.oup.com/bioinformatics/article/30/18/2659/2475637/EuGene-PP-a-next-generation-automated-annotation']	#. EGene https://www.semanticscholar.org/paper/EGene-a-configurable-pipeline-generation-system-fo-Durham-Kashiwabara/4c0656195b5efcdd3aa7bdcb55fc95a957c150aa https://academic.oup.com/bioinformatics/article/30/18/2659/2475637/EuGene-PP-a-next-generation-automated-annotation
+WEP		['https://bioinformatics.cineca.it/wep/']	[]	['https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-S7-S11']	#. WEP https://bioinformatics.cineca.it/wep/ https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-S7-S11
+Microbase		['http://www.microbasecloud.com/']	[]	[]	#. Microbase http://www.microbasecloud.com/
+e-Science Central		['http://www.esciencecentral.co.uk/']	[]	['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3538293/']	#. e-Science Central http://www.esciencecentral.co.uk/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3538293/
+Cyrille2		[]	[]	['https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-9-96']	#. Cyrille2 https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-9-96
+PaPy		['https://code.google.com/archive/p/papy/']	[]	['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3051902/']	#. PaPy https://code.google.com/archive/p/papy/ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3051902/
+JobCenter		[]	['https://github.com/yeastrc/jobcenter']	['https://scfbm.biomedcentral.com/articles/10.1186/1751-0473-7-8']	#. JobCenter https://github.com/yeastrc/jobcenter https://scfbm.biomedcentral.com/articles/10.1186/1751-0473-7-8
+CoreFlow		[]	[]	['https://www.ncbi.nlm.nih.gov/pubmed/24503186']	#. CoreFlow https://www.ncbi.nlm.nih.gov/pubmed/24503186
+dynamic-pipeline		['https://code.google.com/archive/p/dynamic-pipeline/']	[]	[]	#. dynamic-pipeline https://code.google.com/archive/p/dynamic-pipeline/
+XiP		['http://xip.hgc.jp/wiki/en/Main_Page']	[]	['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3530915/']	#. XiP http://xip.hgc.jp/wiki/en/Main_Page https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3530915/
+Eoulsan		['http://www.outils.genomique.biologie.ens.fr/eoulsan/']	[]	['https://www.ncbi.nlm.nih.gov/pubmed/22492314']	#. Eoulsan http://www.outils.genomique.biologie.ens.fr/eoulsan/ https://www.ncbi.nlm.nih.gov/pubmed/22492314
+CloudDOE		['http://clouddoe.iis.sinica.edu.tw/']	[]	[]	#. CloudDOE http://clouddoe.iis.sinica.edu.tw/
+BioPig		[]	['https://github.com/JGI-Bioinformatics/biopig']	['https://www.ncbi.nlm.nih.gov/pubmed/24021384']	#. BioPig https://github.com/JGI-Bioinformatics/biopig https://www.ncbi.nlm.nih.gov/pubmed/24021384
+SeqPig		[]	['https://github.com/HadoopGenomics/SeqPig']	['https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3866557/']	#. SeqPig https://github.com/HadoopGenomics/SeqPig https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3866557/
+zymake		['http://www-personal.umich.edu/~ebreck/code/zymake/']	[]	[]	#. zymake http://www-personal.umich.edu/~ebreck/code/zymake/
+JMS		[]	['https://github.com/RUBi-ZA/JMS']	['http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0134273']	#. JMS https://github.com/RUBi-ZA/JMS http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0134273
+CLC Genomics Workbench		['https://www.qiagenbioinformatics.com/products/clc-genomics-workbench/']	[]	[]	#. CLC Genomics Workbench https://www.qiagenbioinformatics.com/products/clc-genomics-workbench/
+NG6		['http://ng6.toulouse.inra.fr/']	[]	['https://www.ncbi.nlm.nih.gov/pubmed/22958229']	#. NG6 http://ng6.toulouse.inra.fr/ https://www.ncbi.nlm.nih.gov/pubmed/22958229
+VIBE		['http://www.incogen.com/vibe/']	[]	[]	#. VIBE http://www.incogen.com/vibe/
+WDL	(Workflow Description Language)	[]	['https://github.com/broadinstitute/wdl']	[]	#. WDL (Workflow Description Language) https://github.com/broadinstitute/wdl
+SciFlow		[]	['https://github.com/kaizhang/SciFlow']	[]	#. SciFlow https://github.com/kaizhang/SciFlow (not to be confused with SciFloware and SciFlo).
+Bioshake		[]	['https://github.com/PapenfussLab/bioshake']	[]	#. Bioshake https://github.com/PapenfussLab/bioshake
+SciPipe		['http://scipipe.org']	[]	[]	#. SciPipe http://scipipe.org
+Kapacitor / TICKscripts		['https://docs.influxdata.com/kapacitor/v1.3//tick/']	[]	[]	#. Kapacitor / TICKscripts https://docs.influxdata.com/kapacitor/v1.3//tick/
+AiiDA	Automated Interactive Infrastructure and Database for Computational Science	['http://www.aiida.net/']	[]	['https://doi.org/10.1016/j.commatsci.2015.09.013']	#. AiiDA: Automated Interactive Infrastructure and Database for Computational Science http://www.aiida.net/ https://doi.org/10.1016/j.commatsci.2015.09.013
+Reflow	a language and runtime for distributed, integrated data processing in the cloud	[]	['https://github.com/grailbio/reflow']	[]	#. Reflow: a language and runtime for distributed, integrated data processing in the cloud https://github.com/grailbio/reflow
+Resolwe	an open source dataflow package for Django framework	[]	['https://github.com/genialis/resolwe']	[]	#. Resolwe: an open source dataflow package for Django framework https://github.com/genialis/resolwe
+Yahoo! Pipes	(historical)	['https://en.wikipedia.org/wiki/Yahoo!_Pipes']	[]	[]	#. Yahoo! Pipes (historical) https://en.wikipedia.org/wiki/Yahoo!_Pipes
+Walrus		[]	['https://github.com/fjukstad/walrus']	[]	#. Walrus https://github.com/fjukstad/walrus
+Apache Beam		['https://beam.apache.org/']	[]	[]	#. Apache Beam https://beam.apache.org/
+CLOSHA		['https://closha.kobic.re.kr/', 'https://www.bioexpress.re.kr/go_tutorial', 'http://docplayer.net/19700397-Closha-manual-ver1-1-kobic-korean-bioinformation-center-kogun82-kribb-re-kr-2016-05-08-bioinformatics-workflow-management-system-in-bio-express.html']	[]	['https://doi.org/10.1186/s12859-018-2019-3']	#. CLOSHA https://closha.kobic.re.kr/ https://www.bioexpress.re.kr/go_tutorial http://docplayer.net/19700397-Closha-manual-ver1-1-kobic-korean-bioinformation-center-kogun82-kribb-re-kr-2016-05-08-bioinformatics-workflow-management-system-in-bio-express.html https://doi.org/10.1186/s12859-018-2019-3
+WopMars		['http://wopmars.readthedocs.io/']	['https://github.com/aitgon/wopmars']	[]	#. WopMars https://github.com/aitgon/wopmars http://wopmars.readthedocs.io/
+flowing-clj		[]	['https://github.com/stain/flowing-clj']	[]	#. flowing-clj https://github.com/stain/flowing-clj
+Plumbing and Graph		[]	['https://github.com/plumatic/plumbing']	[]	#. Plumbing and Graph https://github.com/plumatic/plumbing
+LabView		['http://www.ni.com/en-us/shop/labview.html']	[]	[]	#. LabView http://www.ni.com/en-us/shop/labview.html
+MyOpenLab		['http://myopenlab.org/']	[]	[]	#. MyOpenLab http://myopenlab.org/
+Max/MSP		['https://cycling74.com/products/max/']	[]	[]	#. Max/MSP https://cycling74.com/products/max/
+NoFlo		['https://noflojs.org/']	[]	[]	#. NoFlo https://noflojs.org/
+Flowstone		['http://www.dsprobotics.com/flowstone.html']	[]	[]	#. Flowstone http://www.dsprobotics.com/flowstone.html
+HyperLoom		['https://code.it4i.cz/ADAS/loom', 'https://code.it4i.cz/ADAS/loom']	[]	[]	#. HyperLoom https://code.it4i.cz/ADAS/loom https://code.it4i.cz/ADAS/loom
+Dask		['http://dask.pydata.org/en/latest/']	['https://github.com/dask/dask']	[]	#. Dask http://dask.pydata.org/en/latest/ https://github.com/dask/dask
+Stimela		['https://www.acru.ukzn.ac.za/~cosmosafari2017/wp-content/uploads/2017/02/makhathini.pdf']	['https://github.com/SpheMakh/Stimela', 'https://github.com/SpheMakh/Stimela/wiki']	[]	#. Stimela https://github.com/SpheMakh/Stimela https://github.com/SpheMakh/Stimela/wiki https://www.acru.ukzn.ac.za/~cosmosafari2017/wp-content/uploads/2017/02/makhathini.pdf
+JTracker		['https://jtracker.io/']	['https://github.com/jtracker-io']	[]	#. JTracker https://jtracker.io/ https://github.com/jtracker-io
+PipelineDog		['http://pipeline.dog/']	['https://github.com/zhouanbo/pipelinedog']	['https://doi.org/10.1093/bioinformatics/btx759']	#. PipelineDog http://pipeline.dog/ https://github.com/zhouanbo/pipelinedog https://doi.org/10.1093/bioinformatics/btx759
+DALiuGE		['https://daliuge.readthedocs.io/']	['https://github.com/ICRAR/daliuge']	['https://arxiv.org/abs/1702.07617']	#. DALiuGE https://arxiv.org/abs/1702.07617 https://github.com/ICRAR/daliuge https://daliuge.readthedocs.io/
+Overseer		[]	['https://github.com/framed-data/overseer']	[]	#. Overseer https://github.com/framed-data/overseer
+Squonk		['https://squonk.it/']	[]	[]	#. Squonk https://squonk.it/
+GC3Pie		[]	['https://github.com/uzh/gc3pie']	[]	#. GC3Pie https://github.com/uzh/gc3pie
+Fractalide		[]	['https://github.com/fractalide/fractalide']	[]	#. Fractalide https://github.com/fractalide/fractalide
+TOGGLe		['http://toggle.southgreen.fr/']	[]	['https://doi.org/10.1101/245480']	#. TOGGLe http://toggle.southgreen.fr/ https://doi.org/10.1101/245480
+Askalon		['http://www.askalon.org']	[]	[]	#. Askalon http://www.askalon.org
+Eclipse ICE	(The Integrated Computational Environment)	['https://www.eclipse.org/ice']	[]	[]	#. Eclipse ICE (The Integrated Computational Environment) https://www.eclipse.org/ice
+Sandia Analysis Workbench	(SAW)	['http://www.sandia.gov/saw/']	[]	[]	#. Sandia Analysis Workbench (SAW) http://www.sandia.gov/saw/
+dispel4py		[]	['https://github.com/dispel4py/dispel4py']	[]	#. dispel4py https://github.com/dispel4py/dispel4py
+Jobber		['https://pypi.python.org/pypi/Jobber/0.1.4']	[]	[]	#. Jobber https://pypi.python.org/pypi/Jobber/0.1.4
+NeatSeq-Flow		['http://neatseq-flow.readthedocs.io/']	[]	[]	#. NeatSeq-Flow http://neatseq-flow.readthedocs.io/
+S4M		[]	['https://bitbucket.org/uqokorn/s4m_base/wiki/Home']	[]	#. S4M https://bitbucket.org/uqokorn/s4m_base/wiki/Home
+Loom		['http://med.stanford.edu/gbsc/loom.html', 'http://loom.readthedocs.io/en/latest/templates.html']	['https://github.com/StanfordBioinformatics/loom']	[]	#. Loom http://med.stanford.edu/gbsc/loom.html https://github.com/StanfordBioinformatics/loom http://loom.readthedocs.io/en/latest/templates.html
+Watchdog	XML Schema-based bioinformatics workflow system	['https://www.bio.ifi.lmu.de/software/watchdog/']	['https://github.com/klugem/watchdog']	['https://doi.org/10.1186/s12859-018-2107-4']	#. Watchdog - XML Schema-based bioinformatics workflow system https://www.bio.ifi.lmu.de/software/watchdog/ https://doi.org/10.1186/s12859-018-2107-4  https://github.com/klugem/watchdog 
+phpflo		[]	['https://github.com/phpflo/phpflo']	[]	#. phpflo https://github.com/phpflo/phpflo
+BASTet	Berkeley Analysis and Storage Toolkit	['https://openmsi.nersc.gov/openmsi/client/bastet.html', 'https://biorack.github.io/BASTet/']	[]	['https://doi.org/10.1109/TVCG.2017.2744479']	#. BASTet: Berkeley Analysis and Storage Toolkit https://openmsi.nersc.gov/openmsi/client/bastet.html https://biorack.github.io/BASTet/ https://doi.org/10.1109/TVCG.2017.2744479
+Tavaxy	Pattern based workflow system for the bioinformatics domain	['http://www.tavaxy.org/']	[]	[]	#. Tavaxy: Pattern based workflow system for the bioinformatics domain http://www.tavaxy.org/
+Ginflow	Decentralised adaptive workflow engine	['https://ginflow.inria.fr/']	[]	[]	#. Ginflow: Decentralised adaptive workflow engine https://ginflow.inria.fr/
+SciApps	A cloud-based platform for reproducible bioinformatics workflows	['https://www.sciapps.org/']	[]	['https://doi.org/10.1093/bioinformatics/bty439']	#. SciApps: A cloud-based platform for reproducible bioinformatics workflows https://doi.org/10.1093/bioinformatics/bty439 https://www.sciapps.org/
+Stoa	Script Tracking for Observational Astronomy	[]	['https://github.com/petehague/Stoa']	[]	#. Stoa: Script Tracking for Observational Astronomy https://github.com/petehague/Stoa
+Collective Knowledge	(CK) framework	['http://cknowledge.org/']	[]	[]	#. Collective Knowledge (CK) framework http://cknowledge.org/
+QosCosGrid	(QCG)	['http://www.qoscosgrid.org/', 'http://www.qoscosgrid.org/trac/qcg-broker/wiki/qcg-advanced-client%20']	[]	[]	#. QosCosGrid (QCG) http://www.qoscosgrid.org/ http://www.qoscosgrid.org/trac/qcg-broker/wiki/qcg-advanced-client%20
+High-Throughput Binding Affinity Calculator	(HTBAC)	['https://htbac.readthedocs.io/en/latest/']	['https://github.com/radical-cybertools/htbac']	['https://arxiv.org/abs/1801.01174']	#. High-Throughput Binding Affinity Calculator (HTBAC) https://htbac.readthedocs.io/en/latest/ https://github.com/radical-cybertools/htbac https://arxiv.org/abs/1801.01174 
+BioWorkbench	(Swift-based)	[]	['https://github.com/mmondelli/bioworkbench']	['https://arxiv.org/abs/1801.03915']	#. BioWorkbench (Swift-based) https://arxiv.org/abs/1801.03915 https://github.com/mmondelli/bioworkbench
+ENVI Task Engine		['https://gbdxdocs.digitalglobe.com/docs/envi-task-engine', 'https://envi-py-engine.readthedocs.io/en/latest/index.html']	[]	['https://www.harrisgeospatial.com/Learn/Whitepapers/TabId/2359/ArtMID/10212/ArticleID/17299/Workflow-Tools-in-ENVI.aspx']	#. ENVI Task Engine https://gbdxdocs.digitalglobe.com/docs/envi-task-engine https://www.harrisgeospatial.com/Learn/Whitepapers/TabId/2359/ArtMID/10212/ArticleID/17299/Workflow-Tools-in-ENVI.aspx https://envi-py-engine.readthedocs.io/en/latest/index.html
+Pypeline		[]	['https://github.com/cgarciae/pypeln']	[]	#. Pypeline https://github.com/cgarciae/pypeln
+mpipe		['http://vmlaker.github.io/mpipe/']	[]	[]	#. mpipe http://vmlaker.github.io/mpipe/
+idseq-dag		[]	['https://github.com/chanzuckerberg/idseq-dag']	[]	#. idseq-dag https://github.com/chanzuckerberg/idseq-dag
+Piper	(based upon GATK Queue)	[]	['https://github.com/NationalGenomicsInfrastructure/piper']	[]	#. Piper (based upon GATK Queue) https://github.com/NationalGenomicsInfrastructure/piper
+Apache Object Oriented Data Technology	(OODT)	['http://oodt.apache.org/']	[]	[]	#. Apache Object Oriented Data Technology (OODT) http://oodt.apache.org/
+JX Workflow	(DSL for Makeflow)	['https://ccl.cse.nd.edu/software/manuals/jx-quick.html']	[]	['http://ccl.cse.nd.edu/research/papers/jx-escience-2018.pdf']	#. JX Workflow (DSL for Makeflow) https://ccl.cse.nd.edu/software/manuals/jx-quick.html http://ccl.cse.nd.edu/research/papers/jx-escience-2018.pdf
+The Adaptable IO System	(ADIOS), ADIOS using applications can be the orchestrated into a workflow	['http://csmd.ornl.gov/adios']	[]	[]	#. The Adaptable IO System (ADIOS), ADIOS using applications can be the orchestrated into a workflow http://csmd.ornl.gov/adios
+GenPipes		[]	['https://bitbucket.org/mugqic/genpipes']	['https://doi.org/10.1101/459552']	#. GenPipes  https://bitbucket.org/mugqic/genpipes https://doi.org/10.1101/459552
+Argo		['https://argoproj.github.io/']	['https://github.com/argoproj/argo', 'https://github.com/argoproj/argo/blob/master/examples/README.md']	[]	#. Argo https://argoproj.github.io/ https://github.com/argoproj/argo https://github.com/argoproj/argo/blob/master/examples/README.md
+Reana		['https://reana.readthedocs.io/en/latest/']	['https://github.com/reanahub/reana']	[]	#. Reana https://reana.readthedocs.io/en/latest/ https://github.com/reanahub/reana
+Cuisine Framework		['https://www.astron.nl/~renting/cuisine.html']	[]	[]	#. Cuisine Framework https://www.astron.nl/~renting/cuisine.html
+Niassa		['https://oicr-gsi.github.io/niassa-docs/']	['https://github.com/oicr-gsi/niassa']	[]	#. Niassa https://github.com/oicr-gsi/niassa https://oicr-gsi.github.io/niassa-docs/
+pypeFLOW		[]	['https://github.com/PacificBiosciences/pypeFLOW']	[]	#. pypeFLOW https://github.com/PacificBiosciences/pypeFLOW
+Tiny Cloud Engine		['http://ka.cb.k.u-tokyo.ac.jp/tce/']	[]	[]	#. Tiny Cloud Engine http://ka.cb.k.u-tokyo.ac.jp/tce/
+Xbowflow		[]	['https://github.com/ChrisSuess/Project-Xbow/tree/master/xbowflow']	[]	#. Xbowflow https://github.com/ChrisSuess/Project-Xbow/tree/master/xbowflow
+AdaptiveMd		[]	['https://github.com/markovmodel/adaptivemd']	[]	#. AdaptiveMd https://github.com/markovmodel/adaptivemd
+Meshroom		[]	['https://github.com/alicevision/meshroom']	[]	#. Meshroom https://github.com/alicevision/meshroom
+LSST Data Management		[]	['https://github.com/lsst/pipe_base']	[]	#. LSST Data Management https://github.com/lsst/pipe_base
+CGAT-core		[]	['https://github.com/cgat-developers/cgat-core']	[]	#. CGAT-core https://github.com/cgat-developers/cgat-core
+Prefect		['https://docs.prefect.io/']	[]	[]	#. Prefect https://docs.prefect.io/
+Apache SCXML engine		['https://commons.apache.org/proper/commons-scxml/guide/core-engine.html', 'https://commons.apache.org/proper/commons-scxml/guide/scxml-documents.html']	[]	[]	#. Apache SCXML engine https://commons.apache.org/proper/commons-scxml/guide/core-engine.html https://commons.apache.org/proper/commons-scxml/guide/scxml-documents.html
+IceProd		[]	['https://github.com/WIPACrepo/iceprod']	[]	#. IceProd https://github.com/WIPACrepo/iceprod
+AnADAMA2		['http://huttenhower.sph.harvard.edu/anadama2']	[]	[]	#. AnADAMA2 http://huttenhower.sph.harvard.edu/anadama2
+Luna		['https://luna-lang.org/']	[]	[]	#. Luna https://luna-lang.org/
+Passerelle		['https://code.google.com/archive/a/eclipselabs.org/p/passerelle']	[]	[]	#. Passerelle https://code.google.com/archive/a/eclipselabs.org/p/passerelle
+Kurator-Akka		[]	['https://github.com/kurator-org/kurator-akka']	[]	#. Kurator-Akka https://github.com/kurator-org/kurator-akka
+Jug		[]	[]	['https://doi.org/10.5334/jors.161']	#. Jug https://doi.org/10.5334/jors.161
+Node-RED		['https://nodered.org/']	[]	[]	#. Node-RED https://nodered.org/
+Databolt Flow		[]	['https://github.com/d6t/d6tflow']	[]	#. Databolt Flow https://github.com/d6t/d6tflow
+Frictionless Data Package Pipelines		[]	['https://github.com/frictionlessdata/datapackage-pipelines']	[]	#. Frictionless Data Package Pipelines https://github.com/frictionlessdata/datapackage-pipelines
+DataFlows		[]	['https://github.com/datahq/dataflows']	[]	#. DataFlows https://github.com/datahq/dataflows
+Volcano		[]	['https://github.com/volcano-sh/volcano']	[]	#. Volcano https://github.com/volcano-sh/volcano
+DataJoint		['https://datajoint.io/']	[]	[]	#. DataJoint https://datajoint.io/
+DIRAC3	(LHCb grid software)	[]	[]	['https://doi.org/10.1088/1742-6596/219/6/062029']	#. DIRAC3 (LHCb grid software) https://doi.org/10.1088/1742-6596/219/6/062029
+Orange		['https://orange.biolab.si/']	[]	['http://jmlr.org/papers/v14/demsar13a.html']	#. Orange https://orange.biolab.si/ http://jmlr.org/papers/v14/demsar13a.html
+Ensemble Toolkit	(EnTK)	['https://radicalentk.readthedocs.io/en/latest/entk.html']	[]	['https://arxiv.org/abs/1602.00678v2']	#. Ensemble Toolkit (EnTK) https://radicalentk.readthedocs.io/en/latest/entk.html https://arxiv.org/abs/1602.00678v2
+BioQueue		['http://www.bioqueue.org/']	['https://github.com/liyao001/BioQueue']	['https://doi.org/10.1093/bioinformatics/btx403']	#. BioQueue http://www.bioqueue.org/ https://github.com/liyao001/BioQueue https://doi.org/10.1093/bioinformatics/btx403
+mlr3pipelines		['https://mlr3pipelines.mlr-org.com/']	[]	[]	#. mlr3pipelines https://mlr3pipelines.mlr-org.com/
+Kedro	Production-Ready Data & ML Pipelines	[]	['https://github.com/quantumblacklabs/kedro']	[]	#. Kedro - Production-Ready Data & ML Pipelines https://github.com/quantumblacklabs/kedro
+DATAVIEW	DATAVIEW is a big data workflow management system.	[]	['https://github.com/shiyonglu/DATAVIEW']	[]	#. DATAVIEW - DATAVIEW is a big data workflow management system. https://github.com/shiyonglu/DATAVIEW
+SecDATAVIEW	SecDATAVIEW is a security oriented big data workflow management system compatible with the heterogeneous computing environments.	[]	['https://github.com/shiyonglu/SecDATAVIEW']	[]	#. SecDATAVIEW - SecDATAVIEW is a security oriented big data workflow management system compatible with the heterogeneous computing environments. https://github.com/shiyonglu/SecDATAVIEW
+Giraffe Tools		['https://giraffe.tools/']	[]	[]	#. Giraffe Tools https://giraffe.tools/
+CERAMICCA	Cloud Engine Resource for Accelerated Medical Image Computing for Clinical Applications:	['https://ceramicca.ensc.sfu.ca']	[]	[]	#. CERAMICCA - Cloud Engine Resource for Accelerated Medical Image Computing for Clinical Applications: https://ceramicca.ensc.sfu.ca 
+uap	Universal Analysis Pipeline. A workflow management system dedicated to robust, consistent, and reproducible HTS data analysis.	[]	['https://github.com/yigbt/uap']	[]	#. uap - Universal Analysis Pipeline. A workflow management system dedicated to robust, consistent, and reproducible HTS data analysis. https://github.com/yigbt/uap
+signac		['https://signac.io/']	['https://github.com/glotzerlab/signac-flow']	[]	#. signac https://signac.io/ https://github.com/glotzerlab/signac-flow
+cwltool	reference implementation of Common Workflow Language (CWL)	[]	['https://github.com/common-workflow-language/cwltool/']	[]	#. cwltool - reference implementation of Common Workflow Language (CWL) https://github.com/common-workflow-language/cwltool/
+CWLEXEC	CWL executor for IBM Spectrum LSF clusters	[]	['https://github.com/IBMSpectrumComputing/cwlexec']	[]	#. CWLEXEC - CWL executor for IBM Spectrum LSF clusters https://github.com/IBMSpectrumComputing/cwlexec
+drmr		['https://drmr.readthedocs.io/']	['https://github.com/ParkerLab/drmr/']	[]	#. drmr https://github.com/ParkerLab/drmr/ https://drmr.readthedocs.io/
+Autosubmit	a versatile tool to manage Weather and Climate Experiments in diverse Supercomputing Environments.	['https://www.bsc.es/research-and-development/software-and-apps/software-list/autosubmit', 'https://autosubmit.readthedocs.io/en/latest/']	[]	[]	#. Autosubmit - a versatile tool to manage Weather and Climate Experiments in diverse Supercomputing Environments. https://www.bsc.es/research-and-development/software-and-apps/software-list/autosubmit https://autosubmit.readthedocs.io/en/latest/
+JUDI		[]	['https://github.com/ncbi/JUDI']	['https://doi.org/10.1093/bioinformatics/btz956']	#. JUDI https://doi.org/10.1093/bioinformatics/btz956 https://github.com/ncbi/JUDI
+Sumatra	a tool for managing and tracking projects based on numerical simulation or analysis, with the aim of supporting reproducible research	['https://neuralensemble.org/sumatra/']	[]	[]	#. Sumatra - a tool for managing and tracking projects based on numerical simulation or analysis, with the aim of supporting reproducible research https://neuralensemble.org/sumatra/
+Netflix Conductor		['https://netflix.github.io/conductor/']	[]	[]	#. Netflix Conductor: https://netflix.github.io/conductor/
+Pipengine		[]	['https://github.com/fstrozzi/bioruby-pipengine']	['https://doi.org/10.21105/joss.00341']	#. Pipengine https://doi.org/10.21105/joss.00341 https://github.com/fstrozzi/bioruby-pipengine
+MyQueue		[]	['https://gitlab.com/myqueue/myqueue']	['https://doi.org/10.21105/joss.01844']	#. MyQueue https://doi.org/10.21105/joss.01844 https://gitlab.com/myqueue/myqueue
+Drake R package		[]	['https://github.com/ropensci/drake']	['https://doi.org/10.21105/joss.00550']	#. Drake R package https://doi.org/10.21105/joss.00550 https://github.com/ropensci/drake (superseded by `targets`)
+MaDaTS		[]	['https://github.com/dghoshal-lbl/madats']	['https://10.21105/joss.00830']	#. MaDaTS https://10.21105/joss.00830 https://github.com/dghoshal-lbl/madats
+Cadence		['https://cadenceworkflow.io/']	[]	[]	#. Cadence https://cadenceworkflow.io/
+Merlin		['https://merlin.readthedocs.io/']	[]	[]	#. Merlin https://merlin.readthedocs.io/
+Janis		['https://janis.readthedocs.io/en/latest/index.html']	[]	[]	#. Janis https://janis.readthedocs.io/en/latest/index.html
+AlphaSQL		[]	['https://github.com/Matts966/alphasql']	[]	#. AlphaSQL https://github.com/Matts966/alphasql
+zeebe		[]	['https://github.com/zeebe-io/zeebe']	[]	#. zeebe https://github.com/zeebe-io/zeebe
+durabletask		[]	['https://github.com/Azure/durabletask']	[]	#. durabletask https://github.com/Azure/durabletask
+Illumina State Language		['https://iap-docs.readme.io/docs/wes_illumina-states-language']	[]	[]	#. Illumina State Language https://iap-docs.readme.io/docs/wes_illumina-states-language
+Moteur		['https://indico.cern.ch/event/286/contributions/654974/attachments/530521/731563/userForumEGEE_MOTEUR.pdf']	[]	['http://www.i3s.unice.fr/~johan/publis/MOTEUR-poster-A4.pdf']	#. Moteur http://www.i3s.unice.fr/~johan/publis/MOTEUR-poster-A4.pdf https://indico.cern.ch/event/286/contributions/654974/attachments/530521/731563/userForumEGEE_MOTEUR.pdf
+SimStack		['http://www.simstack.de/']	[]	[]	#. SimStack http://www.simstack.de/
+Maestro Workflow Conductor		[]	['https://github.com/LLNL/maestrowf']	[]	#. Maestro Workflow Conductor https://github.com/LLNL/maestrowf
+HyWare		[]	[]	['https://doi.org/10.1007/s41060-020-00237-x']	#. HyWare https://doi.org/10.1007/s41060-020-00237-x
+HyperFlow		[]	['https://github.com/hyperflow-wms/']	[]	#. HyperFlow https://github.com/hyperflow-wms/
+BRANE Framework		['https://onnovalkering.github.io/brane/']	[]	[]	#. BRANE Framework https://onnovalkering.github.io/brane/
+ApolloWF		['https://apollowf.github.io/']	[]	[]	#. ApolloWF https://apollowf.github.io/
+IS-EPOS Platform		['https://tcs.ah-epos.eu/']	[]	['https://ieeexplore.ieee.org/document/9308147']	#. IS-EPOS Platform https://ieeexplore.ieee.org/document/9308147 https://tcs.ah-epos.eu/
+pyinvoke	Pythonic task management & command execution, uses python as workflow language.	['http://www.pyinvoke.org/']	[]	[]	#. pyinvoke: Pythonic task management & command execution, uses python as workflow language. http://www.pyinvoke.org/
+targets R package		['https://cran.r-project.org/package=targets']	[]	[]	#. targets R package https://cran.r-project.org/package=targets
+Compi		['https://www.sing-group.org/compi']	['https://github.com/sing-group/compi']	['https://doi.org/10.7717/peerj-cs.593']	#. Compi https://doi.org/10.7717/peerj-cs.593 https://github.com/sing-group/compi https://www.sing-group.org/compi
+TriggerFlow	Event-based Orchestration of Serverless Workflows	[]	['https://github.com/triggerflow/triggerflow']	[]	#. TriggerFlow: Event-based Orchestration of Serverless Workflows https://github.com/triggerflow/triggerflow
+Google Cloud Workflows	Orchestrate and automate Google Cloud and HTTP-based API services with serverless workflows.	['https://cloud.google.com/workflows/docs']	[]	[]	#. Google Cloud Workflows: Orchestrate and automate Google Cloud and HTTP-based API services with serverless workflows. https://cloud.google.com/workflows/docs
+PanDA Workflow Management System		[]	['https://github.com/PanDAWMS']	['https://doi.org/10.1051/epjconf/201921403050', 'https://doi.org/10.1051/epjconf/201610801003']	#. PanDA Workflow Management System: https://doi.org/10.1051/epjconf/201921403050 https://doi.org/10.1051/epjconf/201610801003  https://github.com/PanDAWMS 
+Harvester		[]	['https://github.com/HSF/harvester']	[]	#. Harvester: https://github.com/HSF/harvester
+BD-Processor		[]	['https://github.com/big-data-processor/bd-processor/']	[]	#. BD-Processor https://github.com/big-data-processor/bd-processor/
+redun	(yet another redundant workflow engine)	[]	['https://github.com/insitro/redun']	[]	#. redun (yet another redundant workflow engine) https://github.com/insitro/redun
+pyiron	(The materials science IDE)	['https://pyiron.org/']	[]	[]	#. pyiron (The materials science IDE) https://pyiron.org/
+looper	(pipeline submitting engine)	[]	['https://github.com/pepkit/looper']	[]	#. looper (pipeline submitting engine) https://github.com/pepkit/looper
+dagster	(Python based data orchestration platform)	['https://dagster.io/']	[]	[]	#. dagster (Python based data orchestration platform) https://dagster.io/
+StackStorm	(Devops automation engine)	['https://stackstorm.com/']	[]	[]	#. StackStorm (Devops automation engine) https://stackstorm.com/
+Geoweaver	(compose and execute full-stack deep learning workflows)	['https://esipfed.github.io/Geoweaver/']	[]	[]	#. Geoweaver (compose and execute full-stack deep learning workflows) https://esipfed.github.io/Geoweaver/
+Popper	Container-native task automation engine	[]	['https://github.com/getpopper/popper']	[]	#. Popper: Container-native task automation engine https://github.com/getpopper/popper
+Cloud Build	Build, test, and deploy on our serverless CI/CD platform	['https://cloud.google.com/build']	[]	[]	#. Cloud Build: Build, test, and deploy on our serverless CI/CD platform https://cloud.google.com/build
+Task/Taskfile	A task runner / simpler Make alternative written in Go	['https://taskfile.dev/']	['https://github.com/go-task/task']	[]	#. Task/Taskfile: A task runner / simpler Make alternative written in Go  https://github.com/go-task/task https://taskfile.dev/ 
+pypyr	task runner for automation pipelines script sequential task workflow steps in yaml conditional execution, loops, error handling & retries	['https://pypyr.io/']	[]	[]	#. pypyr: task runner for automation pipelines script sequential task workflow steps in yaml conditional execution, loops, error handling & retries https://pypyr.io/
+SimTool/Sim2Ls	Jupyter notebook-based pipelines of Simulation Tools for the HUBzero platform lead by nanoHUB	['https://simtool.readthedocs.io/']	['https://github.com/hubzero/simtool']	['https://doi.org/10.1371/journal.pone.0264492']	#. SimTool/Sim2Ls: Jupyter notebook-based pipelines of Simulation Tools for the HUBzero platform lead by nanoHUB https://github.com/hubzero/simtool https://simtool.readthedocs.io/ https://doi.org/10.1371/journal.pone.0264492
+SideIO	A Side I/O system framework for hybrid scientific workflow (*no project/source code available*)	[]	[]	['https://doi.org/10.1016/j.jpdc.2016.07.001']	#. SideIO: A Side I/O system framework for hybrid scientific workflow (*no project/source code available*) https://doi.org/10.1016/j.jpdc.2016.07.001
+Flyte		['https://flyte.org/']	[]	[]	#. Flyte https://flyte.org/
+StreamFlow		['https://streamflow.di.unito.it/']	[]	[]	#. StreamFlow https://streamflow.di.unito.it/
+Jupyter Workflow		['https://jupyter-workflow.di.unito.it/']	[]	[]	#. Jupyter Workflow https://jupyter-workflow.di.unito.it/
+Nnodes	a simple workflow manager for Python functions and command line tools	[]	['https://github.com/icui/nnodes']	[]	#. Nnodes: a simple workflow manager for Python functions and command line tools https://github.com/icui/nnodes
+Orchest	A GUI for developing, running and managing container workflows	[]	['https://github.com/orchest/orchest']	[]	#. Orchest: A GUI for developing, running and managing container workflows https://github.com/orchest/orchest
+Wasmflow	platform for building applications out of WebAssembly code containers	['https://wasmflow.com/']	['https://github.com/wasmflow/wasmflow']	[]	#. Wasmflow: platform for building applications out of WebAssembly code containers https://github.com/wasmflow/wasmflow https://wasmflow.com/
+HyperShell	cross-platform, high-performance computing utility for processing shell commands over a distributed, asynchronous queue.	[]	['https://github.com/glentner/hyper-shell']	['https://doi.org/10.1145/3491418.3535138']	#. HyperShell: cross-platform, high-performance computing utility for processing shell commands over a distributed, asynchronous queue.  https://doi.org/10.1145/3491418.3535138 https://github.com/glentner/hyper-shell
+Covalent	Pythonic distributed workflow tool used to prototype and run high performance classical and quantum software	[]	['https://github.com/AgnostiqHQ/covalent']	[]	#. Covalent: Pythonic distributed workflow tool used to prototype and run high performance classical and quantum software https://github.com/AgnostiqHQ/covalent
+Icolos	workflow manager for structure-based workflows in computational chemistry	[]	['https://github.com/MolecularAI/Icolos']	['https://doi.org/10.26434/chemrxiv-2022-vqbxg']	#. Icolos: workflow manager for structure-based workflows in computational chemistry https://github.com/MolecularAI/Icolos https://doi.org/10.26434/chemrxiv-2022-vqbxg
+dwork	Task graph scheduler with a minimalistic API.	[]	['https://github.com/frobnitzem/dwork']	[]	#. dwork: Task graph scheduler with a minimalistic API. https://github.com/frobnitzem/dwork
+pmake	parallel make developed for use within batch jobs	['https://docs.olcf.ornl.gov/software/workflows/pmake.html#workflows-pmake']	[]	[]	#. pmake: parallel make developed for use within batch jobs https://docs.olcf.ornl.gov/software/workflows/pmake.html#workflows-pmake
+Texera	Collaborative Data Analytics Using Workflows	[]	['https://github.com/Texera/texera']	[]	#. Texera: Collaborative Data Analytics Using Workflows https://github.com/Texera/texera
+swif2	The Scientific Workflow Indefatigable Factotum	['https://scicomp.jlab.org/docs/swif2']	[]	[]	#. swif2: The Scientific Workflow Indefatigable Factotum https://scicomp.jlab.org/docs/swif2
+Jobflow	jobflow is a library for writing computational workflows	[]	['https://github.com/materialsproject/jobflow']	[]	#. Jobflow: jobflow is a library for writing computational workflows https://github.com/materialsproject/jobflow
+Balsam	High throughput workflows and automation for HPC	[]	['https://github.com/argonne-lcf/balsam']	[]	#. Balsam: High throughput workflows and automation for HPC https://github.com/argonne-lcf/balsam
+Task Vine	Dynamic workflows that run on HPC clusters, GPU clusters, and commercial clouds	['https://ccl.cse.nd.edu/software/taskvine/']	[]	[]	#. Task Vine: Dynamic workflows that run on HPC clusters, GPU clusters, and commercial clouds https://ccl.cse.nd.edu/software/taskvine/
+Globus Compute	High Performance Function Serving for Science	[]	['https://github.com/funcx-faas/funcX']	[]	#. Globus Compute: High Performance Function Serving for Science https://github.com/funcx-faas/funcX
+mkite	Distributed computing for high-throughput materials simulation	[]	['https://github.com/mkite-group']	[]	#. mkite: Distributed computing for high-throughput materials simulation https://github.com/mkite-group
+hpcflow	Automated simulate, process, archive workflows on HPC systems	[]	['https://github.com/LightForm-group/hpcflow']	[]	#. hpcflow: Automated simulate, process, archive workflows on HPC systems https://github.com/LightForm-group/hpcflow
+Data Version Control	"DVC data pipelines as ""Makefile"" system for machine learning projects"	['https://dvc.org/doc/start/data-management/data-pipelines']	[]	[]	"#. Data Version Control: DVC data pipelines as ""Makefile"" system for machine learning projects https://dvc.org/doc/start/data-management/data-pipelines"
+ZnFlow	General purpose framework for computational graphs	[]	['https://github.com/zincware/ZnFlow']	[]	#. ZnFlow: General purpose framework for computational graphs https://github.com/zincware/ZnFlow
+Globus Flows	Globus automation services provide secure and reliable task orchestration across a set of heterogeneous resources at scale.	['https://docs.globus.org/api/flows/']	[]	[]	#. Globus Flows: Globus automation services provide secure and reliable task orchestration across a set of heterogeneous resources at scale. https://docs.globus.org/api/flows/
+Kestra	Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines.	[]	['https://github.com/kestra-io/kestra']	[]	#. Kestra: Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines. https://github.com/kestra-io/kestra

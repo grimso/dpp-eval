@@ -1,0 +1,206 @@
+id,name,homepage_url,repo_url,category
+actionchain,ActionChain,http://docs.stackstorm.com/actionchain.html,,Pipeline frameworks & libraries
+adage,Adage,,https://github.com/diana-hep/adage,Pipeline frameworks & libraries
+aiida,AiiDA,,https://github.com/aiidateam/aiida-core,Pipeline frameworks & libraries
+airflow,Airflow,,https://github.com/airbnb/airflow,Pipeline frameworks & libraries
+anduril,Anduril,http://www.anduril.org/anduril/site/,,Pipeline frameworks & libraries
+antha,Antha,https://www.antha-lang.org/,,Pipeline frameworks & libraries
+awe,AWE,,https://github.com/MG-RAST/AWE/,Pipeline frameworks & libraries
+balsam,Balsam,,https://github.com/argonne-lcf/balsam,Pipeline frameworks & libraries
+bds,Bds,http://pcingola.github.io/BigDataScript/,,Pipeline frameworks & libraries
+biomake,BioMake,,https://github.com/evoldoers/biomake,Pipeline frameworks & libraries
+bioqueue,BioQueue,,https://github.com/liyao001/BioQueue,Pipeline frameworks & libraries
+bioshake,Bioshake,,https://github.com/papenfusslab/bioshake,Pipeline frameworks & libraries
+bistro,Bistro,,https://github.com/pveber/bistro,Pipeline frameworks & libraries
+bpipe,Bpipe,,https://github.com/ssadedin/bpipe/,Pipeline frameworks & libraries
+briefly,Briefly,,https://github.com/bloomreach/briefly,Pipeline frameworks & libraries
+clusterflow,Cluster Flow,http://clusterflow.io,,Pipeline frameworks & libraries
+clusterjob,Clusterjob,,https://github.com/monajemi/clusterjob,Pipeline frameworks & libraries
+compi,Compi,https://www.sing-group.org/compi,,Pipeline frameworks & libraries
+compss,Compss,https://www.bsc.es/research-and-development/software-and-apps/software-list/comp-superscalar,,Pipeline frameworks & libraries
+conan2,Conan2,,https://github.com/tburdett/Conan2,Pipeline frameworks & libraries
+consecution,Consecution,,https://github.com/robdmc/consecution,Pipeline frameworks & libraries
+cosmos,Cosmos,https://mizzou-cbmi.github.io/,,Pipeline frameworks & libraries
+couler,Couler,,https://github.com/couler-proj/couler,Pipeline frameworks & libraries
+covalent,Covalent,,https://github.com/AgnostiqHQ/covalent,Pipeline frameworks & libraries
+cromwell,Cromwell,,https://github.com/broadinstitute/cromwell,Pipeline frameworks & libraries
+cuneiform,Cuneiform,,https://github.com/joergen7/cuneiform,Pipeline frameworks & libraries
+cylc,Cylc,https://cylc.github.io/,,Pipeline frameworks & libraries
+dagobah,Dagobah,,https://github.com/thieman/dagobah,Pipeline frameworks & libraries
+dagr,Dagr,,https://github.com/fulcrumgenomics/dagr,Pipeline frameworks & libraries
+dagster,Dagster,,https://github.com/dagster-io/dagster,Pipeline frameworks & libraries
+datajoint,DataJoint,https://datajoint.io,,Pipeline frameworks & libraries
+dask,Dask,,https://github.com/dask/dask,Pipeline frameworks & libraries
+dbt,Dbt,https://www.getdbt.com/,,Pipeline frameworks & libraries
+dockerflow,Dockerflow,,https://github.com/googlegenomics/dockerflow,Pipeline frameworks & libraries
+doit,Doit,http://pydoit.org/,,Pipeline frameworks & libraries
+drake,Drake,,https://github.com/Factual/drake,Pipeline frameworks & libraries
+drakerpackage,Drake R package,,https://github.com/ropensci/drake,Pipeline frameworks & libraries
+factual'sdrake,Factual's Drake,,https://github.com/factual/drake,Pipeline frameworks & libraries
+targets,Targets,,https://github.com/ropensci/targets,Pipeline frameworks & libraries
+dray,Dray,,https://github.com/CenturyLinkLabs/dray,Pipeline frameworks & libraries
+ecflow,ecFlow,,https://github.com/ecmwf/ecflow,Pipeline frameworks & libraries
+ehive,eHive,,https://github.com/Ensembl/ensembl-hive,Pipeline frameworks & libraries
+fissionworkflows,Fission Workflows,,https://github.com/fission/fission-workflows,Pipeline frameworks & libraries
+flex,Flex,,https://github.com/druths/flex/,Pipeline frameworks & libraries
+flowr,Flowr,,https://github.com/sahilseth/flowr,Pipeline frameworks & libraries
+gc3pie,Gc3pie,,https://github.com/uzh/gc3pie,Pipeline frameworks & libraries
+guixworkflowlanguage,Guix Workflow Language,https://guixwl.org/,,Pipeline frameworks & libraries
+gwf,Gwf,,https://github.com/mailund/gwf,Pipeline frameworks & libraries
+hyperloom,HyperLoom,,https://github.com/It4innovations/HyperLoom,Pipeline frameworks & libraries
+joblib,Joblib,https://joblib.readthedocs.io/en/latest/,,Pipeline frameworks & libraries
+jug,Jug,https://jug.readthedocs.io,,Pipeline frameworks & libraries
+kedro,Kedro,,https://github.com/quantumblacklabs/kedro,Pipeline frameworks & libraries
+kestra,Kestra,,https://github.com/kestra-io/kestra,Pipeline frameworks & libraries
+ketrew,Ketrew,,https://github.com/hammerlab/ketrew,Pipeline frameworks & libraries
+kronos,Kronos,,https://github.com/jtaghiyar/kronos,Pipeline frameworks & libraries
+loom,Loom,,https://github.com/StanfordBioinformatics/loom,Pipeline frameworks & libraries
+longbow,Longbow,http://www.hecbiosim.ac.uk/longbow,,Pipeline frameworks & libraries
+luigi,Luigi,,https://github.com/spotify/luigi,Pipeline frameworks & libraries
+maestro,Maestro,,https://github.com/LLNL/maestrowf,Pipeline frameworks & libraries
+makeflow,Makeflow,http://ccl.cse.nd.edu/software/makeflow/,,Pipeline frameworks & libraries
+mara,Mara,,https://github.com/mara/data-integration,Pipeline frameworks & libraries
+mario,Mario,,https://github.com/intentmedia/mario,Pipeline frameworks & libraries
+martian,Martian,http://martian-lang.org/,,Pipeline frameworks & libraries
+mdstudio,MD Studio,,https://github.com/MD-Studio/MDStudio,Pipeline frameworks & libraries
+metaflow,MetaFlow,https://metaflow.org/,,Pipeline frameworks & libraries
+mistral,Mistral,,https://github.com/openstack/mistral,Pipeline frameworks & libraries
+moa,Moa,,https://github.com/mfiers/Moa,Pipeline frameworks & libraries
+nextflow,Nextflow,http://www.nextflow.io,,Pipeline frameworks & libraries
+nipype,NiPype,,https://github.com/nipy/nipype,Pipeline frameworks & libraries
+openge,OpenGE,,https://github.com/adaptivegenome/openge,Pipeline frameworks & libraries
+pachyderm,Pachyderm,https://www.pachyderm.io/,,Pipeline frameworks & libraries
+parsl,Parsl,,https://github.com/Parsl/parsl,Pipeline frameworks & libraries
+pipengine,PipEngine,,https://github.com/fstrozzi/bioruby-pipengine,Pipeline frameworks & libraries
+pinball,Pinball,,https://github.com/pinterest/pinball,Pipeline frameworks & libraries
+popper,Popper,,https://github.com/systemslab/popper,Pipeline frameworks & libraries
+porcupine,Porcupine,,https://github.com/tweag/porcupine,Pipeline frameworks & libraries
+prefectcore,Prefect Core,https://docs.prefect.io/,,Pipeline frameworks & libraries
+pydra,Pydra,,https://github.com/nipype/pydra,Pipeline frameworks & libraries
+pyflow,PyFlow,,https://github.com/Illumina/pyflow,Pipeline frameworks & libraries
+pypeflow,PypeFlow,,https://github.com/PacificBiosciences/pypeFLOW,Pipeline frameworks & libraries
+pyperator,pyperator,,https://github.com/baffelli/pyperator,Pipeline frameworks & libraries
+pyppl,pyppl,,https://github.com/pwwang/pyppl,Pipeline frameworks & libraries
+pypyr,pypyr,https://pypyr.io,,Pipeline frameworks & libraries
+pwrake,Pwrake,,https://github.com/masa16/Pwrake/,Pipeline frameworks & libraries
+qdo,Qdo,https://bitbucket.org/berkeleylab/qdo,,Pipeline frameworks & libraries
+qsubsec,Qsubsec,,https://github.com/alastair-droop/qsubsec,Pipeline frameworks & libraries
+rabix,Rabix,,https://github.com/rabix/rabix,Pipeline frameworks & libraries
+rain,Rain,,https://github.com/substantic/rain,Pipeline frameworks & libraries
+ray,Ray,,https://github.com/ray-project/ray,Pipeline frameworks & libraries
+redun,Redun,,https://github.com/insitro/redun,Pipeline frameworks & libraries
+reflow,Reflow,,https://github.com/grailbio/reflow,Pipeline frameworks & libraries
+remake,Remake,,https://github.com/richfitz/remake,Pipeline frameworks & libraries
+rmake,Rmake,http://physiology.med.cornell.edu/faculty/mason/lab/r-make/,,Pipeline frameworks & libraries
+rubra,Rubra,,https://github.com/bjpop/rubra,Pipeline frameworks & libraries
+ruffus,Ruffus,http://www.ruffus.org.uk,,Pipeline frameworks & libraries
+ruigi,Ruigi,,https://github.com/kirillseva/ruigi,Pipeline frameworks & libraries
+sake,Sake,http://tonyfischetti.github.io/sake/,,Pipeline frameworks & libraries
+sciluigi,SciLuigi,,https://github.com/pharmbio/sciluigi,Pipeline frameworks & libraries
+scipipe,SciPipe,http://scipipe.org,,Pipeline frameworks & libraries
+signac,Signac,https://signac.io,,Pipeline frameworks & libraries
+scoop,Scoop,,https://github.com/soravux/scoop/,Pipeline frameworks & libraries
+seqtools,Seqtools,,https://github.com/nlgranger/SeqTools,Pipeline frameworks & libraries
+snakemake,Snakemake,https://snakemake.readthedocs.io/en/stable,,Pipeline frameworks & libraries
+spiff,Spiff,,https://github.com/knipknap/SpiffWorkflow,Pipeline frameworks & libraries
+stolos,Stolos,,https://github.com/sailthru/stolos,Pipeline frameworks & libraries
+steppy,Steppy,,https://github.com/minerva-ml/steppy,Pipeline frameworks & libraries
+stpipe,Stpipe,http://ssb.stsci.edu/doc/jwst_dev/jwst_lib.stpipe.doc/html/,,Pipeline frameworks & libraries
+streamflow,StreamFlow,,https://github.com/alpha-unito/streamflow,Pipeline frameworks & libraries
+streampipes,StreamPipes,https://streampipes.apache.org,,Pipeline frameworks & libraries
+sundial,Sundial,,https://github.com/gilt/sundial,Pipeline frameworks & libraries
+suro,Suro,,https://github.com/Netflix/suro,Pipeline frameworks & libraries
+swift,Swift,http://swift-lang.org,,Pipeline frameworks & libraries
+targets,Targets,,https://github.com/ropensci/targets,Pipeline frameworks & libraries
+make,Make,https://www.gnu.org/software/make/,,Pipeline frameworks & libraries
+taskgraph,TaskGraph,,https://github.com/natcap/taskgraph,Pipeline frameworks & libraries
+temporal,Temporal,,https://github.com/temporalio/temporal,Pipeline frameworks & libraries
+tibanna,Tibanna,,https://github.com/4dn-dcic/tibanna,Pipeline frameworks & libraries
+toil,Toil,,https://github.com/BD2KGenomics/toil,Pipeline frameworks & libraries
+yap,Yap,http://opensource.nibr.com/yap/,,Pipeline frameworks & libraries
+yapp,Yapp,,https://github.com/picanumber/yapp,Pipeline frameworks & libraries
+wallaroo,Wallaroo,https://www.wallaroolabs.com/,,Pipeline frameworks & libraries
+worldmake,WorldMake,http://worldmake.org/,,Pipeline frameworks & libraries
+zenaton,Zenaton,https://zenaton.com,,Pipeline frameworks & libraries
+zenml,ZenML,https://zenml.io,,Pipeline frameworks & libraries
+activepapers,ActivePapers,http://www.activepapers.org/,,Workflow platforms
+apacheiravata,Apache Iravata,https://airavata.apache.org/,,Workflow platforms
+arteria,Arteria,https://arteria-project.github.io/,,Workflow platforms
+arvados,Arvados,http://arvados.org,,Workflow platforms
+biokepler,Biokepler,http://www.biokepler.org,,Workflow platforms
+butler,Butler,,http://github.com/llevar/butler,Workflow platforms
+chipster,Chipster,http://chipster.csc.fi,,Workflow platforms
+clubber,Clubber,https://bitbucket.org/bromberglab/clubber,,Workflow platforms
+digdag,Digdag,https://www.digdag.io,,Workflow platforms
+fireworks,Fireworks,,https://github.com/materialsproject/fireworks,Workflow platforms
+flyte,Flyte,,https://github.com/lyft/flyte,Workflow platforms
+galaxy,Galaxy,https://usegalaxy.org,,Workflow platforms
+kepler,Kepler,https://kepler-project.org/,,Workflow platforms
+knimeanalyticsplatform,KNIME Analytics Platform,https://www.knime.org/knime-analytics-platform,,Workflow platforms
+nextflowworkbench,NextflowWorkbench,http://workflow.campagnelab.org,,Workflow platforms
+omega|mldataopsplatform,omega|ml DataOps Platform,,https://github.com/omegaml/omegaml,Workflow platforms
+openmole,OpenMOLE,http://www.openmole.org/current/,,Workflow platforms
+ophidia,Ophidia,http://ophidia.cmcc.it,,Workflow platforms
+orchest,Orchest,,https://github.com/orchest/orchest,Workflow platforms
+pegasus,Pegasus,http://pegasus.isi.edu,,Workflow platforms
+piper,Piper,,https://github.com/creactiviti/piper,Workflow platforms
+polyaxon,Polyaxon,,https://github.com/polyaxon/polyaxon,Workflow platforms
+reana,Reana,,https://github.com/reanahub/reana,Workflow platforms
+sushi,Sushi,,https://github.com/uzh/sushi,Workflow platforms
+yabi,Yabi,http://ccg.murdoch.edu.au/yabi,,Workflow platforms
+taverna,Taverna,http://www.taverna.org.uk,,Workflow platforms
+temporal,Temporal,https://www.temporal.io/,,Workflow platforms
+vistrails,VisTrails,http://www.vistrails.org/,,Workflow platforms
+wings,Wings,http://www.wings-workflows.org,,Workflow platforms
+watchdog,Watchdog,,https://github.com/klugem/watchdog,Workflow platforms
+flowhub,FlowHub,https://www.flowhub.com.cn,,Workflow platforms
+commonworkflowlanguage,Common Workflow Language,,https://github.com/common-workflow-language/common-workflow-language,Workflow languages
+cloudgeneworkflowlanguage,Cloudgene Workflow Language,http://cloudgene.uibk.ac.at/developer-guide,,Workflow languages
+openmoledsl,OpenMOLE DSL,http://www.openmole.org/current/Documentation_Language.html,,Workflow languages
+workflowdescriptionlanguage,Workflow Description Language,,https://github.com/openwdl/wdl,Workflow languages
+yetanotherworkflowlanguage,Yet Another Workflow Language,http://www.yawlfoundation.org,,Workflow languages
+pipelines,Pipelines,,https://github.com/calebwin/pipelines,Workflow languages
+workflow4everinitiative,Workflow 4 Ever Initiative,http://www.wf4ever-project.org,,Workflow standardization initiatives
+workflow4everworkflowresearchobjectmodel,Workflow 4 Ever workflow research object model,http://wf4ever.github.io/ro,,Workflow standardization initiatives
+workflowpatternsinitiative,Workflow Patterns Initiative,http://www.workflowpatterns.com,,Workflow standardization initiatives
+workflowpatternslibrary,Workflow Patterns Library,http://www.workflowpatterns.com/patterns,,Workflow standardization initiatives
+researchobject.org,ResearchObject.org,http://www.researchobject.org,,Workflow standardization initiatives
+datalad,DataLad,https://datalad.org,,ETL & Data orchestration
+dvc,DVC,https://dvc.org,,ETL & Data orchestration
+lakefs,lakeFS,,https://github.com/treeverse/lakeFS,ETL & Data orchestration
+nessie,Nessie,,https://github.com/projectnessie/nessie,ETL & Data orchestration
+beaker,Beaker,http://beakernotebook.com/,,Literate programming (aka interactive notebooks)
+binder,Binder,http://mybinder.org/,,Literate programming (aka interactive notebooks)
+ipython,IPython,https://ipython.org/,,Literate programming (aka interactive notebooks)
+jupyter,Jupyter,https://jupyter.org/,,Literate programming (aka interactive notebooks)
+pathomx,Pathomx,http://pathomx.org,,Literate programming (aka interactive notebooks)
+polynote,Polynote,,https://github.com/polynote/polynote,Literate programming (aka interactive notebooks)
+ploomber,Ploomber,,https://github.com/ploomber/ploomber,Literate programming (aka interactive notebooks)
+rnotebooks,R Notebooks,http://rmarkdown.rstudio.com/r_notebooks.html,,Literate programming (aka interactive notebooks)
+redpointnotebooks,RedPoint Notebooks,https://www.redpointnotebooks.com/,,Literate programming (aka interactive notebooks)
+sos,SoS,https://vatlab.github.io/sos-docs/,,Literate programming (aka interactive notebooks)
+zeppelin,Zeppelin,https://zeppelin.apache.org/,,Literate programming (aka interactive notebooks)
+cadence,Cadence,,https://github.com/uber/cadence,"Extract, transform, load (ETL)"
+dataform,Dataform,,https://github.com/dataform-co/dataform,"Extract, transform, load (ETL)"
+kibaetl,Kiba ETL,http://www.kiba-etl.org,,"Extract, transform, load (ETL)"
+linkedpipesetl,LinkedPipes ETL,https://etl.linkedpipes.com,,"Extract, transform, load (ETL)"
+pentahokettle,Pentaho Kettle,https://community.hitachivantara.com/s/article/data-integration-kettle,,"Extract, transform, load (ETL)"
+substation,Substation,,https://github.com/brexhq/substation,"Extract, transform, load (ETL)"
+argo,Argo,,https://github.com/argoproj/argo,Continuous Delivery workflows
+cds,CDS,,https://github.com/ovh/cds,Continuous Delivery workflows
+bazel,Bazel,http://bazel.io/,,Build automation tools
+doit,DoIt,,https://github.com/pydoit/doit,Build automation tools
+gradle,Gradle,http://gradle.org/,,Build automation tools
+scons,Scons,http://www.scons.org/,,Build automation tools
+shake,Shake,,https://github.com/ndmitchell/shake,Build automation tools
+make,Make,https://www.gnu.org/software/make/,,Build automation tools
+prodmodel,Prodmodel,,https://github.com/prodmodel/prodmodel,Build automation tools
+ape,APE,,https://github.com/sanctuuary/APE,Automated workflow composition
+hpcgridrunner,HPC Grid Runner,http://hpcgridrunner.github.io/,,Other projects
+nifi,NiFi,https://nifi.apache.org,,Other projects
+noworkflow,noWorkflow,,https://github.com/gems-uff/noworkflow,Other projects
+reprozip,Reprozip,https://www.reprozip.org/,,Other projects
+awesomestreaming,Awesome streaming,,https://github.com/manuzhang/awesome-streaming,Related lists
+awesomeetl,Awesome ETL,,https://github.com/pawl/awesome-etl,Related lists
+awesomeworkflowengines,Awesome workflow engines,,https://github.com/meirwah/awesome-workflow-engines,Related lists
+computationaldataanalysisworkflowsystems,Computational Data Analysis Workflow Systems,,https://github.com/common-workflow-language/common-workflow-language/wiki/Existing-Workflow-systems,Related lists

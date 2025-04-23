@@ -1,0 +1,58 @@
+id,name,homepage_url,repo_url,category,subcategory
+alink,Alink,https://github.com/alibaba/Alink,https://github.com/alibaba/Alink,Machine Learning,Platform
+angel-ml,Angel-ML,https://angelml.ai/,https://github.com/Angel-ML/angel,Machine Learning,Platform
+apachesystemml,Apache SystemML,https://systemds.apache.org,https://github.com/apache/systemds,Machine Learning,Platform
+ax,AX,https://ax.dev/,https://github.com/facebook/Ax,Machine Learning,Platform
+cortex,Cortex,https://www.cortex.dev/,https://github.com/cortexlabs/cortex,Machine Learning,Platform
+forestflow,ForestFlow,https://forestflow.ai,https://github.com/ForestFlow/ForestFlow,Machine Learning,Platform
+h2o.ai,H2o.ai,https://www.h2o.ai/,https://github.com/h2oai/h2o-3,Machine Learning,Platform
+kubeflow,Kubeflow,https://www.kubeflow.org/,https://github.com/kubeflow/kubeflow,Machine Learning,Platform
+metaflow,Metaflow,https://metaflow.org/,https://github.com/Netflix/metaflow,Machine Learning,Platform
+mlflow,MLFlow,https://mlflow.org/,https://github.com/mlflow/mlflow,Machine Learning,Platform
+predictionio,PredictionIO,https://predictionio.apache.org/,https://github.com/apache/predictionio,Machine Learning,Platform
+seldon,Seldon,https://www.seldon.io/,https://github.com/SeldonIO/seldon-core,Machine Learning,Platform
+vowpalwabbit,Vowpal Wabbit,https://github.com/VowpalWabbit/vowpal_wabbit/wiki,https://github.com/VowpalWabbit/vowpal_wabbit,Machine Learning,Platform
+openbytes,OpenBytes,https://www.openbytes.io/,https://github.com/Project-OpenBytes/OpenBytes,Data,Lineage
+opendataology,OpenDataology,https://github.com/OpenDataology/,https://github.com/OpenDataology/OpenDataology,Data,Lineage
+openlineage,OpenLineage,https://github.com/OpenLineage,https://github.com/OpenLineage/OpenLineage,Data,Lineage
+dotmesh,dotmesh,https://dotmesh.com/,https://github.com/dotmesh-io/dotmesh,Data,Versioning
+dvc,DVC,https://dvc.org/,https://github.com/iterative/dvc,Data,Versioning
+quiltdata,Quilt Data,https://docs.quiltdata.com/,https://github.com/quiltdata/quilt,Data,Versioning
+mathesar,Mathesar,https://mathesar.org,https://github.com/centerofci/mathesar,Data,Operations
+amundsen,Amundsen,https://www.amundsen.io/,https://github.com/amundsen-io/amundsen,Data,Operations
+apachehive,Apache Hive,https://hive.apache.org/,https://github.com/apache/hive,Data,Operations
+ckan,CKAN,https://ckan.org/,https://github.com/ckan/ckan,Data,Operations
+datahub,DataHub,https://github.com/datahub-project/datahub,https://github.com/datahub-project/datahub,Data,Operations
+datashim,Datashim,https://github.com/datashim-io/datashim,https://github.com/datashim-io/datashim,Data,Operations
+great_expectations,great_expectations,https://greatexpectations.io/,https://github.com/great-expectations/great_expectations,Data,Operations
+marquez,Marquez,https://marquezproject.github.io/marquez,https://github.com/MarquezProject/marquez,Data,Operations
+snorkel,snorkel,https://www.snorkel.org/,https://github.com/snorkel-team/snorkel,Data,Operations
+whylogs,whylogs,https://github.com/whylabs/whylogs,https://github.com/whylabs/whylogs,Data,Operations
+analyticszoo,Analytics Zoo,https://pypi.org/project/analytics-zoo/,https://github.com/intel-analytics/analytics-zoo,Data,Pipeline Management
+apacheoozie,Apache Oozie,https://oozie.apache.org,https://github.com/apache/oozie,Data,Pipeline Management
+artigraph,Artigraph,https://github.com/artigraph/,https://github.com/artigraph/artigraph,Data,Pipeline Management
+dagster,DAGSTER,https://dagster.io/,https://github.com/dagster-io/dagster,Data,Pipeline Management
+piflow,PiFlow,https://github.com/cas-bigdatalab/piflow/,https://github.com/cas-bigdatalab/piflow,Data,Pipeline Management
+tektonpipelines,Tekton Pipelines,https://tekton.dev/,https://github.com/tektoncd/pipeline,Data,Pipeline Management
+tpot,TPOT,https://automl.info/tpot/,https://github.com/EpistasisLab/tpot,Data,Pipeline Management
+communitydatalicenseagreement(cdla),Community Data License Agreement (CDLA),https://cdla.dev,https://github.com/lfai/CDLA,Data,Governance
+egeria,Egeria,https://egeria-project.org,https://github.com/odpi/egeria,Data,Governance
+claimed,CLAIMED,https://github.com/claimed-framework/,https://github.com/claimed-framework/component-library,Model,Workflow
+apacheairflow,Apache Airflow,https://airflow.apache.org/,https://github.com/apache/airflow,Model,Workflow
+apachenifi,Apache Nifi,https://nifi.apache.org,https://github.com/apache/nifi,Model,Workflow
+argo,Argo,https://argoproj.github.io/,https://github.com/argoproj/argo-workflows,Model,Workflow
+azkaban,Azkaban,https://azkaban.github.io,https://github.com/azkaban/azkaban,Model,Workflow
+bentoml,BentoML,https://www.bentoml.com,https://github.com/bentoml/BentoML,Model,Workflow
+cadence,Cadence,https://cadenceworkflow.io/,https://github.com/uber/cadence,Model,Workflow
+couler,Couler,https://github.com/couler-proj/couler,https://github.com/couler-proj/couler,Model,Workflow
+cyclone,Cyclone,https://github.com/caicloud/cyclone,https://github.com/caicloud/cyclone,Model,Workflow
+d6tflow,d6tflow,https://d6tflow.readthedocs.io/en/latest,https://github.com/d6t/d6tflow,Model,Workflow
+flyte,Flyte,https://flyte.org,https://github.com/flyteorg/flyte,Model,Workflow
+kedro,Kedro,https://kedro.org/,https://github.com/kedro-org/kedro,Model,Workflow
+kestra,Kestra,https://kestra.io/,https://github.com/kestra-io/kestra,Model,Workflow
+luigi,Luigi,https://github.com/spotify/luigi,https://github.com/spotify/luigi,Model,Workflow
+mleap,mleap,https://mleap-docs.combust.ml,https://github.com/combust/mleap,Model,Workflow
+orchest,Orchest,https://orchest.io/,https://github.com/orchest/orchest,Model,Workflow
+prefect,Prefect,https://docs.prefect.io/,https://github.com/prefecthq/prefect,Model,Workflow
+trains,TRAINS,https://github.com/allegroai/clearml,https://github.com/allegroai/clearml,Model,Workflow
+volcano,Volcano,https://github.com/volcano-sh/volcano,https://github.com/volcano-sh/volcano,Model,Workflow

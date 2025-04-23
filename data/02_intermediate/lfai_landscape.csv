@@ -1,0 +1,429 @@
+id,name,homepage_url,repo_url,category,subcategory
+accord.net,Accord.NET,http://accord-framework.net/,https://github.com/accord-net/framework,Machine Learning,Framework
+lightgbm,LightGBM,https://github.com/Microsoft/LightGBM,https://github.com/Microsoft/LightGBM,Machine Learning,Framework
+mahout,Mahout,https://mahout.apache.org/,https://github.com/apache/mahout,Machine Learning,Framework
+ml.net,ML.net,https://dotnet.microsoft.com/en-us/apps/machinelearning-ai/ml-dotnet,https://github.com/dotnet/machinelearning,Machine Learning,Framework
+ray,Ray,https://bair.berkeley.edu/blog/2018/01/09/ray/,https://github.com/ray-project/ray,Machine Learning,Framework
+zenml,ZenML,https://zenml.io/,https://github.com/zenml-io/zenml,Machine Learning,Framework
+alink,Alink,https://github.com/alibaba/Alink,https://github.com/alibaba/Alink,Machine Learning,Platform
+angel-ml,Angel-ML,https://angelml.ai/,https://github.com/Angel-ML/angel,Machine Learning,Platform
+apachesystemml,Apache SystemML,https://systemds.apache.org,https://github.com/apache/systemds,Machine Learning,Platform
+ax,AX,https://ax.dev/,https://github.com/facebook/Ax,Machine Learning,Platform
+cortex,Cortex,https://www.cortex.dev/,https://github.com/cortexlabs/cortex,Machine Learning,Platform
+forestflow,ForestFlow,https://forestflow.ai,https://github.com/ForestFlow/ForestFlow,Machine Learning,Platform
+h2o.ai,H2o.ai,https://www.h2o.ai/,https://github.com/h2oai/h2o-3,Machine Learning,Platform
+kubeflow,Kubeflow,https://www.kubeflow.org/,https://github.com/kubeflow/kubeflow,Machine Learning,Platform
+metaflow,Metaflow,https://metaflow.org/,https://github.com/Netflix/metaflow,Machine Learning,Platform
+mlflow,MLFlow,https://mlflow.org/,https://github.com/mlflow/mlflow,Machine Learning,Platform
+predictionio,PredictionIO,https://predictionio.apache.org/,https://github.com/apache/predictionio,Machine Learning,Platform
+seldon,Seldon,https://www.seldon.io/,https://github.com/SeldonIO/seldon-core,Machine Learning,Platform
+vowpalwabbit,Vowpal Wabbit,https://github.com/VowpalWabbit/vowpal_wabbit/wiki,https://github.com/VowpalWabbit/vowpal_wabbit,Machine Learning,Platform
+1chipml,1chipML,https://github.com/1chipML/,https://github.com/1chipML/1chipML,Machine Learning,Library
+autogluon,AutoGluon,https://auto.gluon.ai/,https://github.com/awslabs/autogluon,Machine Learning,Library
+catboost,CatBoost,https://catboost.ai,https://github.com/catboost/catboost,Machine Learning,Library
+flashlight,Flashlight,https://github.com/flashlight/flashlight,https://github.com/flashlight/flashlight,Machine Learning,Library
+mediapipe,MediaPipe,https://mediapipe.dev/,https://github.com/google/mediapipe,Machine Learning,Library
+mlpack,mlpack,https://www.mlpack.org/,https://github.com/mlpack/mlpack,Machine Learning,Library
+nilearn,Nilearn,https://nilearn.github.io/,https://github.com/nilearn/nilearn,Machine Learning,Library
+opencv,OpenCV,https://opencv.org,https://github.com/opencv/opencv,Machine Learning,Library
+opennn,OpenNN,https://www.opennn.net,https://github.com/Artelnics/OpenNN,Machine Learning,Library
+pycaret,PyCaret,https://pycaret.org/,https://github.com/pycaret/pycaret,Machine Learning,Library
+scikit-learn,SciKit-learn,https://scikit-learn.org/stable/,https://github.com/scikit-learn/scikit-learn,Machine Learning,Library
+shogun,Shogun,https://www.shogun.ml/,https://github.com/shogun-toolbox/shogun,Machine Learning,Library
+sonnet,Sonnet,https://sonnet.dev/,https://github.com/deepmind/Sonnet,Machine Learning,Library
+transmogrifai,TransmogrifAI,https://transmogrif.ai/,https://github.com/salesforce/TransmogrifAI,Machine Learning,Library
+xgboost,XGBoost,https://xgboost.ai/,https://github.com/dmlc/xgboost,Machine Learning,Library
+xlearn,xLearn,https://xlearn-doc.readthedocs.io/en/latest/index.html,https://github.com/aksnzhy/xlearn,Machine Learning,Library
+deeprec,DeepRec,https://deeprec.readthedocs.io/,https://github.com/alibaba/DeepRec,Deep Learning,Framework
+apachesinga,Apache SINGA,https://singa.apache.org/en/index.html,https://github.com/apache/singa,Deep Learning,Framework
+chainer,Chainer,https://chainer.org/,https://github.com/chainer/chainer,Deep Learning,Framework
+cntk,CNTK,https://docs.microsoft.com/en-us/cognitive-toolkit/,https://github.com/Microsoft/CNTK,Deep Learning,Framework
+dynamicneuralnetworktoolkit,Dynamic Neural Network Toolkit,https://dynet.readthedocs.io/en/latest/,https://github.com/clab/dynet,Deep Learning,Framework
+euler,euler,https://github.com/alibaba/euler,https://github.com/alibaba/euler,Deep Learning,Framework
+mindspore,MindSpore,https://www.mindspore.cn/en,https://github.com/mindspore-ai/mindspore,Deep Learning,Framework
+mxnet,MXNet,https://mxnet.apache.org/versions/1.6,https://github.com/apache/incubator-mxnet,Deep Learning,Framework
+ncnn,ncnn,https://github.com/Tencent/ncnn,https://github.com/Tencent/ncnn,Deep Learning,Framework
+paddlepaddle,PaddlePaddle,https://www.paddlepaddle.org.cn,https://github.com/PaddlePaddle/Paddle,Deep Learning,Framework
+pythia,Pythia,https://github.com/facebookresearch/mmf,https://github.com/facebookresearch/mmf,Deep Learning,Framework
+pytorch,PyTorch,https://pytorch.org/,https://github.com/pytorch/pytorch,Deep Learning,Framework
+tensorflow,Tensorflow,https://www.tensorflow.org/,https://github.com/tensorflow/tensorflow,Deep Learning,Framework
+deepdetect,DeepDetect,https://www.deepdetect.com/,https://github.com/jolibrain/deepdetect,Deep Learning,Platform
+determinedai,Determined AI,https://www.determined.ai,https://github.com/determined-ai/determined,Deep Learning,Platform
+jina,Jina,https://jina.ai,https://github.com/jina-ai/jina,Deep Learning,Platform
+onepanel,Onepanel,https://docs.onepanel.ai,https://github.com/onepanelio/onepanel,Deep Learning,Platform
+polyaxon,Polyaxon,https://polyaxon.com,https://github.com/polyaxon/polyaxon,Deep Learning,Platform
+tony,TonY,https://github.com/tony-framework/TonY,https://github.com/tony-framework/TonY,Deep Learning,Platform
+x-deeplearning,X-DeepLearning,https://github.com/alibaba/x-deeplearning,https://github.com/alibaba/x-deeplearning,Deep Learning,Platform
+bigdl,BigDL,https://bigdl-project.github.io/0.9.0/,https://github.com/intel-analytics/BigDL,Deep Learning,Library
+catalyst,Catalyst,https://github.com/catalyst-team/catalyst,https://github.com/catalyst-team/catalyst,Deep Learning,Library
+eclipsedeeplearning4j,Eclipse Deeplearning4j,https://deeplearning4j.konduit.ai/,https://github.com/eclipse/deeplearning4j,Deep Learning,Library
+fast.ai,fast.ai,https://www.fast.ai/,https://github.com/fastai/fastai,Deep Learning,Library
+keras,Keras,https://keras.io/,https://github.com/keras-team/keras,Deep Learning,Library
+neuralnetworklibraries,Neural Network Libraries,https://nnabla.org,https://github.com/sony/nnabla,Deep Learning,Library
+pytorchignite,PyTorch Ignite,https://pytorch.org/ignite/,https://github.com/pytorch/ignite,Deep Learning,Library
+pytorchlightning,PyTorch Lightning,https://github.com/PyTorchLightning/pytorch-lightning,https://github.com/PyTorchLightning/pytorch-lightning,Deep Learning,Library
+pytorchvideo,PyTorchVideo,https://pytorchvideo.org/,https://github.com/facebookresearch/pytorchvideo,Deep Learning,Library
+beyondml,BeyondML,https://github.com/Beyond-ML-Labs/mann,https://github.com/Beyond-ML-Labs/mann,Deep Learning,Tool
+botorch,BoTorch,https://botorch.org/,https://github.com/pytorch/botorch,Deep Learning,Tool
+neuralnetworkdistiller,Neural Network Distiller,https://nervanasystems.github.io/distiller/,https://github.com/IntelLabs/distiller,Deep Learning,Tool
+plaidml,Plaid ML,https://www.intel.com/content/www/us/en/artificial-intelligence/plaidml.html,https://github.com/plaidml/plaidml,Deep Learning,Tool
+pytorchbiggraph,PyTorch BigGraph,https://torchbiggraph.readthedocs.io/en/latest/,https://github.com/facebookresearch/PyTorch-BigGraph,Deep Learning,Tool
+pytorchgeometric,PyTorch Geometric,https://pytorch-geometric.readthedocs.io/en/latest,https://github.com/pyg-team/pytorch_geometric,Deep Learning,Tool
+tvm,TVM,https://tvm.ai/,https://github.com/apache/tvm,Deep Learning,Tool
+datapractices,DataPractices,https://datapractices.org/,https://github.com/datapractices/data-practices-site,Data,Education
+opends4all,OpenDS4All,https://github.com/odpi/OpenDS4All,https://github.com/odpi/OpenDS4All,Data,Education
+openbytes,OpenBytes,https://www.openbytes.io/,https://github.com/Project-OpenBytes/OpenBytes,Data,Lineage
+opendataology,OpenDataology,https://github.com/OpenDataology/,https://github.com/OpenDataology/OpenDataology,Data,Lineage
+openlineage,OpenLineage,https://github.com/OpenLineage,https://github.com/OpenLineage/OpenLineage,Data,Lineage
+couchdb,CouchDB,https://iceberg.apache.org/,https://github.com/apache/couchdb,Data,Relational DB
+mysql,MySQL,https://www.mysql.com/,https://github.com/mysql/mysql-server,Data,Relational DB
+postgres,Postgres,https://www.postgresql.org,https://github.com/postgres/postgres,Data,Relational DB
+tikv,TiKV,https://tikv.org,https://github.com/tikv/tikv,Data,Relational DB
+lakesoul,LakeSoul,https://www.dmetasoul.com/en/docs/lakesoul/,https://github.com/meta-soul/LakeSoul,Data,Store & Format
+docarrary,Docarrary,https://docarray.jina.ai/,https://github.com/docarray/docarray,Data,Store & Format
+alluxio,Alluxio,https://www.alluxio.io/,https://github.com/alluxio/alluxio,Data,Store & Format
+apacheiceberg,Apache Iceberg,https://iceberg.apache.org/,https://github.com/apache/iceberg,Data,Store & Format
+apacheorc,Apache ORC,https://orc.apache.org/,https://github.com/apache/orc,Data,Store & Format
+aresdb,AresDB,https://eng.uber.com/aresdb/,https://github.com/uber/aresdb,Data,Store & Format
+arrow,Arrow,https://arrow.apache.org/,https://github.com/apache/arrow,Data,Store & Format
+avro,Avro,https://avro.apache.org/,https://github.com/apache/avro,Data,Store & Format
+ceph,Ceph,https://www.ceph.io/en/,https://github.com/ceph/ceph,Data,Store & Format
+deltalake,Delta Lake,https://delta.io/,https://github.com/delta-io/delta,Data,Store & Format
+druid,Druid,https://druid.apache.org/,https://github.com/apache/druid,Data,Store & Format
+hudi,Hudi,https://eng.uber.com/hoodie/,https://github.com/apache/hudi,Data,Store & Format
+hugegraph,HugeGraph,https://hugegraph.apache.org/,https://github.com/apache/incubator-hugegraph,Data,Store & Format
+influxdb,InfluxDB,https://www.influxdata.com/,https://github.com/influxdata/influxdb,Data,Store & Format
+janusgraph,JanusGraph,https://janusgraph.org/,https://github.com/JanusGraph/janusgraph,Data,Store & Format
+milvus,Milvus,https://milvus.io,https://github.com/milvus-io/milvus,Data,Store & Format
+pandas,pandas,https://pandas.pydata.org/,https://github.com/pandas-dev/pandas,Data,Store & Format
+parquet,Parquet,https://parquet.apache.org/,https://github.com/apache/parquet-format,Data,Store & Format
+pilosa,Pilosa,https://www.pilosa.com/,https://github.com/pilosa/pilosa,Data,Store & Format
+vearch,VEARCH,https://vearch.github.io/,https://github.com/vearch/vearch,Data,Store & Format
+vespa,Vespa,https://vespa.ai/,https://github.com/vespa-engine/vespa,Data,Store & Format
+vineyard,Vineyard,https://v6d.io/,https://github.com/v6d-io/v6d,Data,Store & Format
+dotmesh,dotmesh,https://dotmesh.com/,https://github.com/dotmesh-io/dotmesh,Data,Versioning
+dvc,DVC,https://dvc.org/,https://github.com/iterative/dvc,Data,Versioning
+quiltdata,Quilt Data,https://docs.quiltdata.com/,https://github.com/quiltdata/quilt,Data,Versioning
+mathesar,Mathesar,https://mathesar.org,https://github.com/centerofci/mathesar,Data,Operations
+amundsen,Amundsen,https://www.amundsen.io/,https://github.com/amundsen-io/amundsen,Data,Operations
+apachehive,Apache Hive,https://hive.apache.org/,https://github.com/apache/hive,Data,Operations
+ckan,CKAN,https://ckan.org/,https://github.com/ckan/ckan,Data,Operations
+datahub,DataHub,https://github.com/datahub-project/datahub,https://github.com/datahub-project/datahub,Data,Operations
+datashim,Datashim,https://github.com/datashim-io/datashim,https://github.com/datashim-io/datashim,Data,Operations
+great_expectations,great_expectations,https://greatexpectations.io/,https://github.com/great-expectations/great_expectations,Data,Operations
+marquez,Marquez,https://marquezproject.github.io/marquez,https://github.com/MarquezProject/marquez,Data,Operations
+snorkel,snorkel,https://www.snorkel.org/,https://github.com/snorkel-team/snorkel,Data,Operations
+whylogs,whylogs,https://github.com/whylabs/whylogs,https://github.com/whylabs/whylogs,Data,Operations
+feast,Feast,https://feast.dev/,https://github.com/feast-dev/feast,Data,Feature Engineering
+feathr,Feathr,https://github.com/linkedin/feathr,https://github.com/linkedin/feathr,Data,Feature Engineering
+featuretools,Featuretools,https://www.featuretools.com/,https://github.com/alteryx/featuretools,Data,Feature Engineering
+openmldb,OpenMLDB,https://openmldb.ai/,https://github.com/4paradigm/OpenMLDB,Data,Feature Engineering
+tsfresh,tsfresh,https://tsfresh.readthedocs.io/en/latest,https://github.com/blue-yonder/tsfresh,Data,Feature Engineering
+apacherocketmq,Apache RocketMQ,https://rocketmq.apache.org/,https://github.com/apache/rocketmq,Data,Stream Processing
+beam,Beam,https://beam.apache.org,https://github.com/apache/beam,Data,Stream Processing
+brooklin,Brooklin,https://github.com/linkedin/Brooklin,https://github.com/linkedin/Brooklin,Data,Stream Processing
+faust,faust,https://github.com/robinhood/faust,https://github.com/robinhood/faust,Data,Stream Processing
+flink,Flink,https://flink.apache.org/,https://github.com/apache/flink,Data,Stream Processing
+fluentd,Fluentd,https://www.fluentd.org,https://github.com/fluent/fluentd,Data,Stream Processing
+kafka,Kafka,https://kafka.apache.org/,https://github.com/apache/kafka,Data,Stream Processing
+logstash,Logstash,https://www.elastic.co/logstash,https://github.com/elastic/logstash,Data,Stream Processing
+nnstreamer,NNStreamer,https://nnstreamer.ai/,https://github.com/nnstreamer/nnstreamer,Data,Stream Processing
+pravega,Pravega,https://github.com/pravega/pravega,https://github.com/pravega/pravega,Data,Stream Processing
+prefect,PREFECT,https://docs.prefect.io/,https://github.com/PrefectHQ/prefect,Data,Stream Processing
+pulsar,Pulsar,https://pulsar.apache.org,https://github.com/apache/pulsar,Data,Stream Processing
+samza,Samza,https://samza.apache.org,https://github.com/apache/samza,Data,Stream Processing
+ureplicator,uReplicator,https://github.com/uber/uReplicator,https://github.com/uber/uReplicator,Data,Stream Processing
+apachedrill,Apache Drill,https://drill.apache.org/,https://github.com/apache/drill,Data,SQL Engine
+hawq,Hawq,https://hawq.apache.org,https://github.com/apache/hawq,Data,SQL Engine
+presto,Presto,https://prestodb.io/,https://github.com/prestodb/presto,Data,SQL Engine
+sqlflow,SQLFlow,https://sql-machine-learning.github.io/,https://github.com/sql-machine-learning/sqlflow,Data,SQL Engine
+trino,Trino,https://trino.io/,https://github.com/trinodb/trino,Data,SQL Engine
+bokeh,bokeh,https://bokeh.org,https://github.com/bokeh/bokeh,Data,Visualization
+carbon,Carbon,https://www.carbondesignsystem.com/,https://github.com/carbon-design-system/carbon,Data,Visualization
+d3(data-drivendocuments),D3 (Data-Driven Documents),https://d3js.org,https://github.com/d3/d3,Data,Visualization
+dash,dash,https://github.com/plotly/dash,https://github.com/plotly/dash,Data,Visualization
+deck.gl,deck.gl,https://deck.gl,https://github.com/visgl/deck.gl,Data,Visualization
+ecco,ecco,https://www.eccox.io,https://github.com/jalammar/ecco,Data,Visualization
+facets,Facets,https://pair-code.github.io/facets/,https://github.com/PAIR-code/facets,Data,Visualization
+grafana,Grafana,https://grafana.com,https://github.com/grafana/grafana,Data,Visualization
+metabase,Metabase,https://metabase.com,https://github.com/metabase/metabase,Data,Visualization
+prometheus,Prometheus,https://prometheus.io/,https://github.com/prometheus/prometheus,Data,Visualization
+rcloud,RCloud,https://rcloud.social/index.html,https://github.com/att/rcloud,Data,Visualization
+redash,redash,https://redash.io/,https://github.com/getredash/redash,Data,Visualization
+seaborn,seaborn,https://seaborn.pydata.org/,https://github.com/mwaskom/seaborn,Data,Visualization
+superset,Superset,https://superset.apache.org,https://github.com/apache/superset,Data,Visualization
+tensorboard,TensorBoard,https://github.com/tensorflow/tensorboard,https://github.com/tensorflow/tensorboard,Data,Visualization
+analyticszoo,Analytics Zoo,https://pypi.org/project/analytics-zoo/,https://github.com/intel-analytics/analytics-zoo,Data,Pipeline Management
+apacheoozie,Apache Oozie,https://oozie.apache.org,https://github.com/apache/oozie,Data,Pipeline Management
+artigraph,Artigraph,https://github.com/artigraph/,https://github.com/artigraph/artigraph,Data,Pipeline Management
+dagster,DAGSTER,https://dagster.io/,https://github.com/dagster-io/dagster,Data,Pipeline Management
+piflow,PiFlow,https://github.com/cas-bigdatalab/piflow/,https://github.com/cas-bigdatalab/piflow,Data,Pipeline Management
+tektonpipelines,Tekton Pipelines,https://tekton.dev/,https://github.com/tektoncd/pipeline,Data,Pipeline Management
+tpot,TPOT,https://automl.info/tpot/,https://github.com/EpistasisLab/tpot,Data,Pipeline Management
+xtreme1,Xtreme1,https://xtreme1.io,https://github.com/xtreme1-io/xtreme1,Data,Labeling & Annotation
+computervisionannotationtool(cvat),Computer Vision Annotation Tool (CVAT),https://github.com/openvinotoolkit/cvat,https://github.com/openvinotoolkit/cvat,Data,Labeling & Annotation
+doccano,doccano,https://doccano.herokuapp.com,https://github.com/doccano/doccano,Data,Labeling & Annotation
+labelstudio,Label Studio,https://labelstud.io,https://github.com/heartexlabs/label-studio,Data,Labeling & Annotation
+labelbox,Labelbox,https://www.labelbox.com,https://github.com/Labelbox/Labelbox,Data,Labeling & Annotation
+labelimg,LabelImg,https://github.com/tzutalin/labelImg,https://github.com/tzutalin/labelImg,Data,Labeling & Annotation
+semanticsegmentationeditor,Semantic Segmentation Editor,https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor,https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor,Data,Labeling & Annotation
+visualobjecttaggingtool(vott),Visual Object Tagging Tool (VoTT),https://github.com/Microsoft/VoTT,https://github.com/Microsoft/VoTT,Data,Labeling & Annotation
+communitydatalicenseagreement(cdla),Community Data License Agreement (CDLA),https://cdla.dev,https://github.com/lfai/CDLA,Data,Governance
+egeria,Egeria,https://egeria-project.org,https://github.com/odpi/egeria,Data,Governance
+cleanrl,CleanRL,https://chainerrl.readthedocs.io/en/latest/,https://github.com/vwxyzjn/cleanrl,Reinforcement Learning,Reinforcement Learning
+chainerrl,Chainer RL,https://chainerrl.readthedocs.io/en/latest/,https://github.com/chainer/chainerrl,Reinforcement Learning,Reinforcement Learning
+coach,Coach,https://nervanasystems.github.io/coach/,https://github.com/IntelLabs/coach,Reinforcement Learning,Reinforcement Learning
+deepmindlab,DeepMind Lab,https://github.com/deepmind/lab,https://github.com/deepmind/lab,Reinforcement Learning,Reinforcement Learning
+dopamine,Dopamine,https://github.com/google/dopamine,https://github.com/google/dopamine,Reinforcement Learning,Reinforcement Learning
+horizon,Horizon,https://engineering.fb.com/2018/11/01/ml-applications/horizon,https://github.com/facebookresearch/ReAgent,Reinforcement Learning,Reinforcement Learning
+openaigym,OpenAI Gym,https://www.gymlibrary.ml,https://github.com/openai/gym,Reinforcement Learning,Reinforcement Learning
+planet,PlaNet,https://planetrl.github.io/,https://github.com/google-research/planet,Reinforcement Learning,Reinforcement Learning
+seedrl,SEED RL,https://github.com/google-research/seed_rl,https://github.com/google-research/seed_rl,Reinforcement Learning,Reinforcement Learning
+stablebaselines,Stable Baselines,https://stable-baselines.readthedocs.io/en/master,https://github.com/hill-a/stable-baselines,Reinforcement Learning,Reinforcement Learning
+albert,ALBERT,https://github.com/google-research/ALBERT,https://github.com/google-research/ALBERT,Natural Language Processing,Natural Language Processing
+allennlp,AllenNLP,https://allenai.org/allennlp,https://github.com/allenai/allennlp,Natural Language Processing,Natural Language Processing
+apacheuima,Apache UIMA,https://uima.apache.org/,https://github.com/apache/uima-uimaj,Natural Language Processing,Natural Language Processing
+bert,BERT,https://github.com/google-research/bert,https://github.com/google-research/bert,Natural Language Processing,Natural Language Processing
+corenlp,CoreNLP,https://stanfordnlp.github.io/CoreNLP/,https://github.com/stanfordnlp/CoreNLP,Natural Language Processing,Natural Language Processing
+deepspeech,DeepSpeech,https://deepspeech.readthedocs.io/en/latest,https://github.com/mozilla/DeepSpeech,Natural Language Processing,Natural Language Processing
+delta,DELTA,https://delta-didi.readthedocs.io/en/latest,https://github.com/Delta-ML/delta,Natural Language Processing,Natural Language Processing
+fasttext,fastText,https://fasttext.cc/,https://github.com/facebookresearch/fastText,Natural Language Processing,Natural Language Processing
+flair,Flair,https://github.com/flairNLP/flair,https://github.com/flairNLP/flair,Natural Language Processing,Natural Language Processing
+gluon-nlp,Gluon-NLP,https://nlp.gluon.ai,https://github.com/dmlc/gluon-nlp,Natural Language Processing,Natural Language Processing
+haystack,Haystack,https://haystack.deepset.ai/,https://github.com/deepset-ai/haystack,Natural Language Processing,Natural Language Processing
+kashgari,Kashgari,https://github.com/BrikerMan/Kashgari,https://github.com/BrikerMan/Kashgari,Natural Language Processing,Natural Language Processing
+laser,LASER,https://github.com/facebookresearch/LASER,https://github.com/facebookresearch/LASER,Natural Language Processing,Natural Language Processing
+lucene,Lucene,https://lucene.apache.org/,https://github.com/apache/lucene-solr,Natural Language Processing,Natural Language Processing
+mindmeld,MindMeld,https://www.mindmeld.com/index.html,https://github.com/cisco/mindmeld,Natural Language Processing,Natural Language Processing
+nlparchitect,NLP Architect,https://intellabs.github.io/nlp-architect,https://github.com/IntelLabs/nlp-architect,Natural Language Processing,Natural Language Processing
+opennlp,OpenNLP,https://opennlp.apache.org/,https://github.com/apache/opennlp,Natural Language Processing,Natural Language Processing
+parlai,ParlAI,https://parl.ai/,https://github.com/facebookresearch/ParlAI,Natural Language Processing,Natural Language Processing
+pytext,PyText,https://pytext.readthedocs.io/en/master,https://github.com/facebookresearch/pytext,Natural Language Processing,Natural Language Processing
+rasanlu,RASA NLU,https://rasa.com/,https://github.com/RasaHQ/rasa,Natural Language Processing,Natural Language Processing
+rosaenlg,RosaeNLG,https://rosaenlg.org,https://github.com/RosaeNLG/rosaenlg,Natural Language Processing,Natural Language Processing
+spacy,spaCy,https://spacy.io,https://github.com/explosion/spaCy,Natural Language Processing,Natural Language Processing
+spark-nlp,Spark-NLP,https://nlp.johnsnowlabs.com,https://github.com/JohnSnowLabs/spark-nlp,Natural Language Processing,Natural Language Processing
+transformers,Transformers,https://huggingface.co/docs/transformers/index,https://github.com/huggingface/transformers,Natural Language Processing,Natural Language Processing
+xlm,XLM,https://github.com/facebookresearch/XLM,https://github.com/facebookresearch/XLM,Natural Language Processing,Natural Language Processing
+youtokentome,YouTokenToMe,https://github.com/VKCOM/YouTokenToMe,https://github.com/VKCOM/YouTokenToMe,Natural Language Processing,Natural Language Processing
+adlik,Adlik,https://adlik.ai/,https://github.com/Adlik/Adlik,Model,Inference
+causalml,CausalML,https://causalml.readthedocs.io/en/latest/about.html,https://github.com/uber/causalml,Model,Inference
+kserve,KServe,https://kserve.github.io/website/,https://github.com/kserve/kserve,Model,Inference
+mnn,MNN,https://github.com/alibaba/MNN,https://github.com/alibaba/MNN,Model,Inference
+tensorrt,TensorRT,https://developer.nvidia.com/tensorrt,https://github.com/NVIDIA/TensorRT,Model,Inference
+tensorrtinferenceserver,TensorRT Inference Server,https://github.com/triton-inference-server/server,https://github.com/triton-inference-server/server,Model,Inference
+utensor,uTensor,https://github.com/uTensor/uTensor,https://github.com/uTensor/uTensor,Model,Inference
+fate,FATE,https://www.fedai.org/,https://github.com/FederatedAI/FATE,Model,Federated Learning
+openfl,OpenFL,https://openfl.readthedocs.io/en/latest,https://github.com/intel/openfl,Model,Federated Learning
+pysyft,PySyft,https://blog.openmined.org/tag/pysyft/,https://github.com/OpenMined/PySyft,Model,Federated Learning
+substra,Substra,https://github.com/Substra/substra,https://github.com/Substra/substra,Model,Federated Learning
+tensorflowfederated,TensorFlow Federated,https://www.tensorflow.org/federated,https://github.com/tensorflow/federated,Model,Federated Learning
+deepspeed,DeepSpeed,https://www.deepspeed.ai/,https://github.com/microsoft/DeepSpeed,Model,Training
+embeddedlearninglibrary,Embedded Learning Library,https://microsoft.github.io/ELL/,https://github.com/Microsoft/ELL,Model,Training
+horovod,Horovod,https://horovod.ai/,https://github.com/horovod/horovod,Model,Training
+ludwig,Ludwig,https://ludwig-ai.github.io/ludwig-docs/,https://github.com/ludwig-ai/ludwig,Model,Training
+petastorm,Petastorm,https://eng.uber.com/petastorm/,https://github.com/uber/petastorm,Model,Training
+torchrec,TorchRec,https://pytorch.org/torchrec/,https://github.com/pytorch/torchrec,Model,Training
+hyperopt,HyperOpt,https://hyperopt.github.io/hyperopt/,https://github.com/hyperopt/hyperopt,Model,Parameter
+katib,Katib,https://github.com/kubeflow/katib,https://github.com/kubeflow/katib,Model,Parameter
+talos,talos,https://github.com/autonomio/talos,https://github.com/autonomio/talos,Model,Parameter
+neuropod,Neuropod,https://neuropod.ai/docs/stable,https://github.com/uber/neuropod,Model,Format & Interface
+onnx,ONNX,https://onnx.ai/,https://github.com/onnx/onnx,Model,Format & Interface
+acumos,Acumos,https://www.acumos.org/,https://github.com/acumos/documentation,Model,Marketplace
+machinelearningexchange,Machine Learning eXchange,https://www.ml-exchange.org/,https://github.com/machine-learning-exchange/mlx,Model,Marketplace
+modelassetexchange(max),Model Asset eXchange (MAX),https://developer.ibm.com,https://github.com/IBM/MAX-Base,Model,Marketplace
+claimed,CLAIMED,https://github.com/claimed-framework/,https://github.com/claimed-framework/component-library,Model,Workflow
+apacheairflow,Apache Airflow,https://airflow.apache.org/,https://github.com/apache/airflow,Model,Workflow
+apachenifi,Apache Nifi,https://nifi.apache.org,https://github.com/apache/nifi,Model,Workflow
+argo,Argo,https://argoproj.github.io/,https://github.com/argoproj/argo-workflows,Model,Workflow
+azkaban,Azkaban,https://azkaban.github.io,https://github.com/azkaban/azkaban,Model,Workflow
+bentoml,BentoML,https://www.bentoml.com,https://github.com/bentoml/BentoML,Model,Workflow
+cadence,Cadence,https://cadenceworkflow.io/,https://github.com/uber/cadence,Model,Workflow
+couler,Couler,https://github.com/couler-proj/couler,https://github.com/couler-proj/couler,Model,Workflow
+cyclone,Cyclone,https://github.com/caicloud/cyclone,https://github.com/caicloud/cyclone,Model,Workflow
+d6tflow,d6tflow,https://d6tflow.readthedocs.io/en/latest,https://github.com/d6t/d6tflow,Model,Workflow
+flyte,Flyte,https://flyte.org,https://github.com/flyteorg/flyte,Model,Workflow
+kedro,Kedro,https://kedro.org/,https://github.com/kedro-org/kedro,Model,Workflow
+kestra,Kestra,https://kestra.io/,https://github.com/kestra-io/kestra,Model,Workflow
+luigi,Luigi,https://github.com/spotify/luigi,https://github.com/spotify/luigi,Model,Workflow
+mleap,mleap,https://mleap-docs.combust.ml,https://github.com/combust/mleap,Model,Workflow
+orchest,Orchest,https://orchest.io/,https://github.com/orchest/orchest,Model,Workflow
+prefect,Prefect,https://docs.prefect.io/,https://github.com/prefecthq/prefect,Model,Workflow
+trains,TRAINS,https://github.com/allegroai/clearml,https://github.com/allegroai/clearml,Model,Workflow
+volcano,Volcano,https://github.com/volcano-sh/volcano,https://github.com/volcano-sh/volcano,Model,Workflow
+dawnbench,DAWNBench,https://dawn.cs.stanford.edu/benchmark/,https://github.com/stanford-futuredata/dawn-bench-entries,Model,Benchmarking
+mlperf,MLPerf,https://mlcommons.org/en,https://github.com/mlcommons/training,Model,Benchmarking
+aimet,AIMET,https://github.com/quic/aimet,https://github.com/quic/aimet,Model,Tool
+clipper,Clipper,https://auction.whois.ai,https://github.com/ucbrise/clipper,Model,Tool
+dlrm,dlrm,https://github.com/facebookresearch/dlrm,https://github.com/facebookresearch/dlrm,Model,Tool
+flagai,FlagAI,https://github.com/BAAI-Open/FlagAI,https://github.com/BAAI-Open/FlagAI,Model,Tool
+flaml,FLAML,https://github.com/microsoft/FLAML,https://github.com/microsoft/FLAML,Model,Tool
+mmdnn,MMdnn,https://github.com/Microsoft/MMdnn,https://github.com/Microsoft/MMdnn,Model,Tool
+modelserverforapachemxnet,Model Server for Apache MXNet,https://github.com/awslabs/multi-model-server,https://github.com/awslabs/multi-model-server,Model,Tool
+modeldb,ModelDB,https://github.com/VertaAI/modeldb,https://github.com/VertaAI/modeldb,Model,Tool
+neo-ai,Neo-AI,https://github.com/neo-ai/neo-ai-dlr,https://github.com/neo-ai/neo-ai-dlr,Model,Tool
+netron,Netron,https://github.com/lutzroeder/netron,https://github.com/lutzroeder/netron,Model,Tool
+onnxruntime,ONNX Runtime,https://github.com/microsoft/onnxruntime,https://github.com/microsoft/onnxruntime,Model,Tool
+pipeline.ai,Pipeline.ai,https://www.datascienceonaws.com,https://github.com/PipelineAI/pipeline,Model,Tool
+studio.ml,studio.ml,https://www.studio.ml,https://github.com/studioml/studio,Model,Tool
+tensorflowmodelanalysis,TensorFlow Model Analysis,https://github.com/tensorflow/model-analysis,https://github.com/tensorflow/model-analysis,Model,Tool
+torchserve,TorchServe,https://pytorch.org/serve/,https://github.com/pytorch/serve,Model,Tool
+turicreate,Turi Create,https://github.com/apple/turicreate,https://github.com/apple/turicreate,Model,Tool
+dask,Dask,https://docs.dask.org/en/latest/,https://github.com/dask/dask,Programming,Programming
+infer.net,Infer.net,https://dotnet.github.io/infer/,https://github.com/dotnet/infer,Programming,Programming
+julia,Julia,https://julialang.org/,https://github.com/JuliaLang/julia,Programming,Programming
+kompute,Kompute,https://kompute.cc,https://github.com/KomputeProject/kompute,Programming,Programming
+mars,MARS,https://github.com/mars-project/mars,https://github.com/mars-project/mars,Programming,Programming
+numba,Numba,https://numba.readthedocs.io/en/stable/index.html,https://github.com/numba/numba,Programming,Programming
+numpy,NumPy,https://numpy.org/,https://github.com/numpy/numpy,Programming,Programming
+nyoka,Nyoka,https://nyoka-pmml.github.io/nyoka/,https://github.com/SoftwareAG/nyoka,Programming,Programming
+pomegranete,Pomegranete,https://pomegranate.readthedocs.io/en/latest/,https://github.com/jmschrei/pomegranate,Programming,Programming
+pymc3,PyMC3,https://docs.pymc.io/en/v3,https://github.com/pymc-devs/pymc,Programming,Programming
+pyro,Pyro,http://pyro.ai/,https://github.com/pyro-ppl/pyro,Programming,Programming
+python,Python,https://www.python.org,https://github.com/python/cpython,Programming,Programming
+rstudioide,RStudio IDE,https://www.rstudio.com,https://github.com/rstudio/rstudio,Programming,Programming
+scipy,SciPy,https://www.scipy.org/,https://github.com/scipy/scipy,Programming,Programming
+skiplanguage,SKIP Language,http://skiplang.com/,https://github.com/skiplang/skip,Programming,Programming
+stan,Stan,https://mc-stan.org/,https://github.com/stan-dev/stan,Programming,Programming
+apacheambari,Apache Ambari,https://ambari.apache.org/,https://github.com/apache/ambari,Distributed Computing,Computing & Management
+apachebahir,Apache Bahir,https://bahir.apache.org,https://github.com/apache/bahir,Distributed Computing,Computing & Management
+apachemesos,Apache Mesos,https://mesos.apache.org,https://github.com/apache/mesos,Distributed Computing,Computing & Management
+apacheranger,Apache Ranger,https://ranger.apache.org,https://github.com/apache/ranger,Distributed Computing,Computing & Management
+apachespark,Apache Spark,https://spark.apache.org,https://github.com/apache/spark,Distributed Computing,Computing & Management
+apachestorm,Apache Storm,https://storm.apache.org,https://github.com/apache/storm,Distributed Computing,Computing & Management
+elasticdeeplearning(edl),Elastic Deep Learning (EDL),https://elasticdeeplearning.ai/,https://github.com/elasticdeeplearning/edl,Distributed Computing,Computing & Management
+genericneuralelasticsearch(gnes),Generic Neural Elastic Search (GNES),https://github.com/gnes-ai/gnes,https://github.com/gnes-ai/gnes,Distributed Computing,Computing & Management
+genie,genie,https://netflix.github.io/genie,https://github.com/Netflix/genie,Distributed Computing,Computing & Management
+graphscope,GraphScope,https://graphscope.io,https://github.com/alibaba/graphscope,Distributed Computing,Computing & Management
+kubernetes,Kubernetes,https://kubernetes.io/,https://github.com/kubernetes/kubernetes,Distributed Computing,Computing & Management
+nauta,Nauta,https://www.intel.com/content/www/us/en/artificial-intelligence/overview.html,https://github.com/IntelAI/Nauta,Distributed Computing,Computing & Management
+openshift,OpenShift,https://www.redhat.com/en/technologies/cloud-computing/openshift,https://github.com/openshift/origin,Distributed Computing,Computing & Management
+singularity,Singularity,https://sylabs.io/,https://github.com/apptainer/singularity,Distributed Computing,Computing & Management
+soajs,SOAJS,https://www.soajs.org/,https://github.com/soajs/soajs,Distributed Computing,Computing & Management
+apachetoree,Apache Toree,https://toree.apache.org,https://github.com/apache/incubator-toree,Distributed Computing,Interface
+livy,Livy,https://livy.incubator.apache.org/,https://github.com/apache/incubator-livy,Distributed Computing,Interface
+sparklyr,sparklyr,https://sparklyr.ai,https://github.com/sparklyr/sparklyr,Distributed Computing,Interface
+aiexplainability360toolkit,AI Explainability 360 Toolkit,http://aix360.mybluemix.net,https://github.com/Trusted-AI/AIX360,Trusted & Responsible AI,Explainability
+alibi,ALIBI,https://docs.seldon.io/projects/alibi/en/stable,https://github.com/SeldonIO/alibi,Trusted & Responsible AI,Explainability
+eli5,ELI5,https://eli5.readthedocs.io/en/latest,https://github.com/TeamHG-Memex/eli5,Trusted & Responsible AI,Explainability
+interpretml,InterpretML,https://github.com/interpretml/interpret,https://github.com/interpretml/interpret,Trusted & Responsible AI,Explainability
+lime,LIME,https://homes.cs.washington.edu/~marcotcr/blog/lime/,https://github.com/marcotcr/lime,Trusted & Responsible AI,Explainability
+lucid,Lucid,https://github.com/tensorflow/lucid,https://github.com/tensorflow/lucid,Trusted & Responsible AI,Explainability
+shap,SHAP,https://github.com/slundberg/shap,https://github.com/slundberg/shap,Trusted & Responsible AI,Explainability
+skater,Skater,https://oracle.github.io/Skater/overview.html,https://github.com/oracle/Skater,Trusted & Responsible AI,Explainability
+treeinterpreter,TreeInterpreter,https://github.com/andosa/treeinterpreter,https://github.com/andosa/treeinterpreter,Trusted & Responsible AI,Explainability
+advbox,AdvBox,https://github.com/advboxes/AdvBox,https://github.com/advboxes/AdvBox,Trusted & Responsible AI,Adversarial
+adversarialrobustnesstoolkit,Adversarial Robustness Toolkit,https://developer.ibm.com/open/projects/adversarial-robustness-toolbox/,https://github.com/Trusted-AI/adversarial-robustness-toolbox,Trusted & Responsible AI,Adversarial
+advertorch,Advertorch,https://advertorch.readthedocs.io/en/latest/,https://github.com/BorealisAI/advertorch,Trusted & Responsible AI,Adversarial
+cleverhans,CleverHans,http://www.cleverhans.io/,https://github.com/cleverhans-lab/cleverhans,Trusted & Responsible AI,Adversarial
+foolbox,Foolbox,https://foolbox.readthedocs.io/en/latest/,https://github.com/bethgelab/foolbox,Trusted & Responsible AI,Adversarial
+aequitas,Aequitas,http://www.datasciencepublicpolicy.org/our-work/tools-guides/aequitas,https://github.com/dssg/aequitas,Trusted & Responsible AI,Bias & Fairness
+aifairness360toolkit,AI Fairness 360 Toolkit,https://developer.ibm.com/open/projects/ai-fairness-360/,https://github.com/Trusted-AI/AIF360,Trusted & Responsible AI,Bias & Fairness
+auditai,Audit AI,https://github.com/pymetrics/audit-ai,https://github.com/pymetrics/audit-ai,Trusted & Responsible AI,Bias & Fairness
+deeplift,DeepLIFT,https://github.com/kundajelab/deeplift,https://github.com/kundajelab/deeplift,Trusted & Responsible AI,Bias & Fairness
+fainlearn,Fainlearn,https://fairlearn.org,https://github.com/fairlearn/fairlearn,Trusted & Responsible AI,Bias & Fairness
+apachezeppelin,Apache Zeppelin,https://zeppelin.apache.org/,https://github.com/apache/zeppelin,Notebook Environment,Notebook Environment
+beakerx,BeakerX,http://beakerx.com/,https://github.com/twosigma/beakerx,Notebook Environment,Notebook Environment
+colaboratory,Colaboratory,https://colab.research.google.com/notebooks/welcome.ipynb,https://github.com/googlecolab/colabtools,Notebook Environment,Notebook Environment
+elyra,Elyra,https://elyra.readthedocs.io/en/latest,https://github.com/elyra-ai/elyra,Notebook Environment,Notebook Environment
+envd,envd,https://envd.tensorchord.ai/,https://github.com/tensorchord/envd,Notebook Environment,Notebook Environment
+ipython,IPython,https://ipython.org/,https://github.com/ipython/ipython,Notebook Environment,Notebook Environment
+jupyternotebooks,Jupyter Notebooks,https://jupyter.org/,https://github.com/jupyter/notebook,Notebook Environment,Notebook Environment
+pixiedust,PixieDust,https://www.ibm.com/cloud,https://github.com/pixiedust/pixiedust,Notebook Environment,Notebook Environment
+polynote,Polynote,https://polynote.org,https://github.com/polynote/polynote,Notebook Environment,Notebook Environment
+rmarkdown,rmarkdown,https://rmarkdown.rstudio.com,https://github.com/rstudio/rmarkdown,Notebook Environment,Notebook Environment
+stencila,Stencila,https://stenci.la,https://github.com/stencila/stencila,Notebook Environment,Notebook Environment
+streamlit,Streamlit,https://www.streamlit.io,https://github.com/streamlit/streamlit,Notebook Environment,Notebook Environment
+differentialprivacylibrary,Differential Privacy Library,https://github.com/google/differential-privacy,https://github.com/google/differential-privacy,Security & Privacy,Security & Privacy
+helib,HE Lib,https://github.com/homenc/HElib,https://github.com/homenc/HElib,Security & Privacy,Security & Privacy
+seal,SEAL,https://www.microsoft.com/en-us/research/project/microsoft-seal/,https://github.com/microsoft/SEAL,Security & Privacy,Security & Privacy
+tensorflowprivacy,TensorFlow Privacy,https://github.com/tensorflow/privacy,https://github.com/tensorflow/privacy,Security & Privacy,Security & Privacy
+tfencrypted,TF Encrypted,https://tf-encrypted.io,https://github.com/tf-encrypted/tf-encrypted,Security & Privacy,Security & Privacy
+"beijingbaidunetcomsciencetechnologyco.,ltd.","Beijing Baidu Netcom Science Technology Co., Ltd.",https://baidu.com/,,LF AI & Data Member Company,Premier
+ericsson,Ericsson,https://ericsson.com/,,LF AI & Data Member Company,Premier
+"guangdongoppomobiletelecommunicationscorp.,ltd.","Guangdong OPPO Mobile Telecommunications Corp., Ltd.",https://oppo.com/,,LF AI & Data Member Company,Premier
+"huaweitechnologiesco.,ltd","Huawei Technologies Co., Ltd",https://huawei.com/,,LF AI & Data Member Company,Premier
+nokiacorporation,Nokia Corporation,https://nokia.com/,,LF AI & Data Member Company,Premier
+sasinstituteinc.,SAS Institute Inc.,https://sas.com/,,LF AI & Data Member Company,Premier
+"the4thparadigmtechnologyco.,ltd","The 4th Paradigm Technology Co., Ltd",https://4paradigm.com/,,LF AI & Data Member Company,Premier
+ztecorporation,ZTE Corporation,https://zte.com.cn/,,LF AI & Data Member Company,Premier
+alibabacloud(singapore)privateltd,Alibaba Cloud (Singapore) Private LTD,https://alibaba-inc.com/,,LF AI & Data Member Company,General
+astronomer,Astronomer,https://astronomer.io/,,LF AI & Data Member Company,General
+basicai,BasicAI,https://basic.ai/,,LF AI & Data Member Company,General
+"beijingprimitivetechnologyco.,ltd","Beijing Primitive Technology Co., Ltd",https://primihub.com/,,LF AI & Data Member Company,General
+broadcomcorporation,Broadcom Corporation,https://broadcom.com/,,LF AI & Data Member Company,General
+"cloudera,inc.","Cloudera, Inc.",https://cloudera.com/,,LF AI & Data Member Company,General
+csdn(beijing)networktechnologyco.ltd,CSDN (Beijing) Network Technology Co. Ltd,https://csdn.net/,,LF AI & Data Member Company,General
+databricksinc.,Databricks Inc.,https://databricks.com/,,LF AI & Data Member Company,General
+dmetasoul,DMetaSoul,https://dmetasoul.com/,,LF AI & Data Member Company,General
+fujitsulimited,Fujitsu Limited,https://fujitsu.com/,,LF AI & Data Member Company,General
+"furiosaai,inc.","FuriosaAI, Inc.",https://furiosa.ai/,,LF AI & Data Member Company,General
+gravititechnologiesinc,GRAVITI TECHNOLOGIES INC,https://graviti.com/,,LF AI & Data Member Company,General
+inggroup,ING Group,https://ing.com/,,LF AI & Data Member Company,General
+internationalbusinessmachinescorporation,International Business Machines Corporation,https://ibm.com/,,LF AI & Data Member Company,General
+jinaailimited,Jina AI Limited,https://jina.ai/,,LF AI & Data Member Company,General
+"preciselyholdings,llc","Precisely Holdings, LLC",https://precisely.com/,,LF AI & Data Member Company,General
+"redhat,inc.","Red Hat, Inc.",https://redhat.com/,,LF AI & Data Member Company,General
+rstudiopbc,RStudio PBC,https://rstudio.com/,,LF AI & Data Member Company,General
+union.ai,Union.ai,https://union.ai/,,LF AI & Data Member Company,General
+"vmware,inc.","VMware, Inc.",https://vmware.com/,,LF AI & Data Member Company,General
+zilliz,Zilliz,https://zilliz.com/,,LF AI & Data Member Company,General
+aiforpeople,AI for People,https://aiforpeople.org/,,LF AI & Data Member Company,Associate
+"aivancityschoolfortechnology,business&societyparis-cachan","Aivancity School for Technology, Business & Society Paris-Cachan",https://aivancity.ai/,,LF AI & Data Member Company,Associate
+ambianic.ai,Ambianic.ai,https://ambianic.ai/,,LF AI & Data Member Company,Associate
+baai,baai,https://baai.ac.cn/,,LF AI & Data Member Company,Associate
+banquedefrance,Banque de France,https://banque-france.fr/,,LF AI & Data Member Company,Associate
+chaitanyabharathiinstituteoftechnology,Chaitanya Bharathi Institute Of Technology,https://cbit.ac.in/,,LF AI & Data Member Company,Associate
+ersiliaopensourceinitiative,Ersilia Open Source Initiative,https://ersilia.io/,,LF AI & Data Member Company,Associate
+ewhainstituteforbiomedicallaw&ethics,Ewha Institute for Biomedical Law & Ethics,https://my.ewha.ac.kr/,,LF AI & Data Member Company,Associate
+galgotiasuniversity,Galgotias University,https://galgotiasuniversity.edu.in/,,LF AI & Data Member Company,Associate
+highschooltechnologyservices,High School Technology Services,https://myhsts.org/,,LF AI & Data Member Company,Associate
+issip,ISSIP,https://issip.org/,,LF AI & Data Member Company,Associate
+kenkennedyinstitute,Ken Kennedy Institute,https://kenkennedy.rice.edu/,,LF AI & Data Member Company,Associate
+montrealaiethicsinstitute,Montreal AI Ethics Institute,https://montrealethics.ai/,,LF AI & Data Member Company,Associate
+newyorkuniversity,New York University,https://nyu.edu/,,LF AI & Data Member Company,Associate
+nipa,NIPA,https://nipa.kr/,,LF AI & Data Member Company,Associate
+openi,OpenI,https://pcl.ac.cn/,,LF AI & Data Member Company,Associate
+openuk,OpenUK,https://openuk.uk/,,LF AI & Data Member Company,Associate
+pennstategreatvalley-thepennsylvaniastateuniversity,Penn State Great Valley - The Pennsylvania State University,https://greatvalley.psu.edu/,,LF AI & Data Member Company,Associate
+pranveersinghinstituteoftechnology,Pranveer Singh Institute Of Technology,https://psit.ac.in/,,LF AI & Data Member Company,Associate
+quantuniversity,QuantUniversity,https://quantuniversity.com/,,LF AI & Data Member Company,Associate
+sahyadricollegeofengineering&management,Sahyadri College of Engineering & Management,https://sahyadri.edu.in/,,LF AI & Data Member Company,Associate
+shanghaiopensourceinformationtechnologyassociation,Shanghai OpenSource Information Technology Association,https://shanghaiopen.org.cn/,,LF AI & Data Member Company,Associate
+theinstituteforethicalai&machinelearning,The Institute for Ethical AI & Machine Learning,https://ethical.institute/,,LF AI & Data Member Company,Associate
+universitélibredetunis,Université Libre de Tunis,https://ult-tunisie.com/,,LF AI & Data Member Company,Associate
+universityofwashington,University of Washington,https://uw.edu/,,LF AI & Data Member Company,Associate
+xprize,XPRIZE,https://xprize.org/,,LF AI & Data Member Company,Associate
+intel(hosting),Intel(hosting),https://intel.com,,Hosting Companies,Hosting Companies
+basicai(hosting),BasicAI(hosting),https://basic.ai/,,Hosting Companies,Hosting Companies
+jinaai(hosting),JINA AI(hosting),https://jina.ai/,,Hosting Companies,Hosting Companies
+owkin(hosting),Owkin(hosting),https://owkin.com/,,Hosting Companies,Hosting Companies
+amazon(hosting),Amazon (hosting),https://amazon.com/,,Hosting Companies,Hosting Companies
+at&t(hosting),AT&T (hosting),https://att.com/,,Hosting Companies,Hosting Companies
+baai(hosting),BAAI (hosting),https://baai.ac.cn/,,Hosting Companies,Hosting Companies
+baidu(hosting),Baidu (hosting),https://www.baidu.com/,,Hosting Companies,Hosting Companies
+bloomberg(hosting),Bloomberg (hosting),https://www.bloomberg.com/tosv2.html,,Hosting Companies,Hosting Companies
+data.world(hosting),data.world (hosting),https://data.world/,,Hosting Companies,Hosting Companies
+datakin(hosting),Datakin (hosting),https://datakin.com/,,Hosting Companies,Hosting Companies
+didi(hosting),DiDi (hosting),https://www.didiglobal.com/,,Hosting Companies,Hosting Companies
+dreamworks(hosting),Dreamworks (hosting),https://dreamworks.com/,,Hosting Companies,Hosting Companies
+gravititechnologiesinc(hosting),GRAVITI TECHNOLOGIES INC (hosting),https://graviti.com/,,Hosting Companies,Hosting Companies
+herrontech(hosting),Herron Tech (hosting),https://www.herrontech.com/,,Hosting Companies,Hosting Companies
+ibm(hosting),IBM (hosting),https://www.ibm.com/us-en/?ar=1,,Hosting Companies,Hosting Companies
+labelialabs(hosting),Labelia Labs (hosting),https://labelia.org/,,Hosting Companies,Hosting Companies
+linkedin(hosting),LinkedIn (hosting),https://www.linkedin.com/,,Hosting Companies,Hosting Companies
+lyft(hosting),Lyft (hosting),https://www.lyft.com,,Hosting Companies,Hosting Companies
+meta(hosting),Meta (hosting),https://m.facebook.com,,Hosting Companies,Hosting Companies
+microsoft(hosting),Microsoft (hosting),https://www.microsoft.com/en-us,,Hosting Companies,Hosting Companies
+oojek(hosting),oojek (hosting),https://www.gojek.com/en-id,,Hosting Companies,Hosting Companies
+quantumblacklabs(hosting),QuantumBlack Labs (hosting),https://www.mckinsey.com/business-functions/quantumblack/labs,,Hosting Companies,Hosting Companies
+rstudio(hosting),RStudio (hosting),https://rstudio.com,,Hosting Companies,Hosting Companies
+samsung(hosting),Samsung(hosting),https://www.samsung.com/us/smartphones/galaxy-note20-5g,,Hosting Companies,Hosting Companies
+techmahindra(hosting),Tech Mahindra (hosting),https://www.techmahindra.com/en-in,,Hosting Companies,Hosting Companies
+tencent(hosting),Tencent (hosting),https://www.tencent.com/zh-cn/index.html,,Hosting Companies,Hosting Companies
+theinstituteforethicalai&machinelearning(hosting),The Institute for Ethical AI & Machine Learning (hosting),https://ethical.institute/,,Hosting Companies,Hosting Companies
+uber(hosting),Uber (hosting),https://www.uber.com/hk/zh-hk,,Hosting Companies,Hosting Companies
+wework(hosting),WeWork (hosting),https://wework.com/,,Hosting Companies,Hosting Companies
+zilliz(hosting),Zilliz (hosting),https://zilliz.com,,Hosting Companies,Hosting Companies
+zte(hosting),ZTE (hosting),https://www.zte.com.cn/global,,Hosting Companies,Hosting Companies
+dmetasoul(hosting),DMetaSoul (hosting),https://dmetasoul.com/,,Hosting Companies,Hosting Companies
