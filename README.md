@@ -21,7 +21,7 @@ tools were assessed based on requirements related to code sharing, environment m
 
 ## Candidate Tool Landscape
 
-This folder contains all relevant code and data used to create the candidate tool landscape for reproducible data preprocessing. 
+All relevant code and data used to create the candidate tool landscape for reproducible data preprocessing is part of this repository. 
 
 The design idea of the candidate tool landscape was to have a consolidated overview of tools relevant for (reproducible) data preprocessing, extracted from community-maintained tool lists. 
 
@@ -43,15 +43,16 @@ The candidate tool landscape data product comprises 5 tables created in the data
 ## Repository Structure
 
 * `slide-deck.pdf`: Provides an overview of this projects in more details
-* `01a_awesome-pipelines.ipynb`: Jupyter notebook to integrate the [awesome pipeline](https://github.com/pditommaso/awesome-pipeline) data source. Covers stages **raw**,**intermediate**, and  **processed**.
-* `01b_awesome-data-engineering.ipynb`: Jupyter notebook to integrate the [awesome data engineering](https://github.com/igorbarinov/awesome-data-engineering) data source. Covers stages **raw**,**intermediate**, and  **processed**.
-* `01c_lfai-landscape.ipynb`: Jupyter notebook to integrate the [LF AI and data landscape](https://landscape.lfai.foundation) data source. Covers stages **raw**,**intermediate**, and  **processed**.
-* `01d_existing-workflow-systems.ipynb`: Jupyter notebook to integrate the [existing workflow system](https://github.com/common-workflow-language/common-workflow-language/wiki/Existing-Workflow-systems) data source. Covers stages **raw** and **intermediate**.
-* `01e_existing_workflow_systems_revisited.ipynb`: Jupyter notebook to integrate the **existing workflow system revisited** data source. Covers stages **raw**,**intermediate**, and  **processed**.
-* `02_combine_and_consolidate.ipynb`: Covers the **consolidated** stage of the data processing pipelines and combines the data generated in the **processed** stage from notebooks `01a`, `01b`, `01c` and `01e`.
-* `03a_github_data_integration_fetch.ipynb`: Fetches the relevant GitHub project data for tools in the `tools` data product generated as part of `02_combine_and_consolidate.ipynb` in the **consolidated** stage.
-* `03b_homepage_data_integration.ipynb`: Creates the `homepages` table as part of the ** final** stage. Fetches the homepage data for tools in the `tools` data product generated as part of `02_combine_and_consolidate.ipynb` in the **consolidated** stage.
-* `04_github_data_integration_processing.ipynb`: Creates the tables `github`, `github_topics`, and `github_languages` as part of the **final stage**. Processed the fetched GitHub data of the notebook `03a_github_data_integration_fetch.ipynb` and created the GitHub-related tables for the candidate tool landscape.
+* `code`
+    * `01a_awesome-pipelines.ipynb`: Jupyter notebook to integrate the [awesome pipeline](https://github.com/pditommaso/awesome-pipeline) data source. Covers stages **raw**,**intermediate**, and  **processed**.
+    * `01b_awesome-data-engineering.ipynb`: Jupyter notebook to integrate the [awesome data engineering](https://github.com/igorbarinov/awesome-data-engineering) data source. Covers stages **raw**,**intermediate**, and  **processed**.
+    * `01c_lfai-landscape.ipynb`: Jupyter notebook to integrate the [LF AI and data landscape](https://landscape.lfai.foundation) data source. Covers stages **raw**,**intermediate**, and  **processed**.
+    * `01d_existing-workflow-systems.ipynb`: Jupyter notebook to integrate the [existing workflow system](https://github.com/common-workflow-language/common-workflow-language/wiki/Existing-Workflow-systems) data source. Covers stages **raw** and **intermediate**.
+    * `01e_existing_workflow_systems_revisited.ipynb`: Jupyter notebook to integrate the **existing workflow system revisited** data source. Covers stages **raw**,**intermediate**, and  **processed**.
+    * `02_combine_and_consolidate.ipynb`: Covers the **consolidated** stage of the data processing pipelines and combines the data generated in the **processed** stage from notebooks `01a`, `01b`, `01c` and `01e`.
+    * `03a_github_data_integration_fetch.ipynb`: Fetches the relevant GitHub project data for tools in the `tools` data product generated as part of `02_combine_and_consolidate.ipynb` in the **consolidated** stage.
+    * `03b_homepage_data_integration.ipynb`: Creates the `homepages` table as part of the ** final** stage. Fetches the homepage data for tools in the `tools` data product generated as part of `02_combine_and_consolidate.ipynb` in the **consolidated** stage.
+    * `04_github_data_integration_processing.ipynb`: Creates the tables `github`, `github_topics`, and `github_languages` as part of the **final stage**. Processed the fetched GitHub data of the notebook `03a_github_data_integration_fetch.ipynb` and created the GitHub-related tables for the candidate tool landscape.
 * `data`: The `data` folder contains all results of the data processing pipeline. For each pipeline stage/step the respective data is saved in the respective subfolder (`raw`,`intermediate`,`processed`,`consolidated`,`final`). 
 * `snippets.py`: Collection of helper functions to fetch GitHub project information. Used in some of the Jupyter notebooks
 * `conda_environment.yml`: [Conda environment file](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file) - Python packages used to run the data processing pipeline. 
